@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-23T17:44:25.319+02:00
-modified: 2026-02-16T20:46:51.111+02:00
+modified: 2026-02-16T22:37:54.077+02:00
 cssclasses: ""
 ---
 
@@ -15,7 +15,7 @@ cssclasses: ""
 ### Locations:
 #### Norvast
 [[Kingdoms, Empires and Factions/Norvast  - Region/Norvast The Region\|Norvast]]
-[[Kingdoms, Empires and Factions/Norvast  - Region/Kingdom of Lorden/Kingdom of Lorden and Structure\|Kingdom of Lorden]]
+[[Kingdoms, Empires and Factions/Norvast  - Region/Lorden/Kingdom of Lorden\|Kingdom of Lorden]]
 ##### Aldreach Valleys
 [[Kingdoms, Empires and Factions/Aldreach Valleys/Aldreach Valleys\|Aldreach valleys]]
 [[Kingdoms, Empires and Factions/Aldreach Valleys/Sorcracy of Mar'gat\|Mar'gat]]
