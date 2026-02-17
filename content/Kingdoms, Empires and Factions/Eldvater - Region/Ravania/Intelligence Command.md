@@ -1,13 +1,13 @@
 ---
 publish: true
 created: 2026-02-16T22:16:28.478+02:00
-modified: 2026-02-17T19:41:47.370+02:00
+modified: 2026-02-17T20:26:49.337+02:00
 cssclasses: ""
 ---
 
 # Recruitment and Training of Intelligence Agents
 
-The intelligence agents of Ravania, the Silentium, Mortis, Delators, Notarius, and Insitus, come from multiple origins.
+The intelligence agents of Ravania, the Silentium, Mortis, Insitus, Delators, and Notarius, come from multiple origins.
 
 Some are children who lost their families to wars, plagues, or campaigns. No one to miss them. Raised in special imperial orphanages from a young age, they are trained, given a home, and made to see the agency as their family.
 
@@ -17,19 +17,23 @@ Those enlisted young enough go through rigorous testing first. Potential recruit
 
 Those who pass are told they have been selected. They are removed from their previous lives and brought into the fold.
 
-From there, recruits are moved to secret training facilities in isolated regions or remote keeps. The training agencies are divided by specialization, those dedicated to the assassination path and those handling analytical and informant work, though a handful of facilities share the same core curriculum for initial Candidatus and Notarius training, spread across different regions of Ravania. Here the first lesson is simple: the empire is all that matters. It is their family. The other recruits are their family.
+From there, recruits are moved to secret training facilities in isolated regions or remote keeps. The training agencies are divided by specialization: those dedicated to the assassination path (Silentium and Mortis), those training deep cover operatives (Insitus), those handling religious enforcement (Delators), and those handling analytical work (Notarius). A handful of facilities share the same core curriculum for initial Candidatus training, spread across different regions of Ravania. Here the first lesson is simple: the empire is all that matters. It is their family. The other recruits are their family.
 
 The training itself is brutal. Recruits are forced to speak only in target languages, those of Lorden, Aldergard, Mordantis, and others, for months at a time. They are isolated in cells for weeks, then suddenly surrounded by warmth and community, then stripped of it again. They are taught to distrust everyone, including fellow trainees. Those who make mistakes are beaten by their peers. Instructors quietly arrange mock friendships between recruits, only to later force them to betray those same companions as part of exercises. Trust is treated as a weapon to be studied, not a comfort to be kept.
 
-Combat training is included but kept limited. Their time is too valuable for soldiering. Instead, the emphasis falls on high-intensity endurance work, running, climbing, vaulting, and acrobatics. Most trainees are taught to flee before they are taught to fight.
+For those selected for the Insitus path, the training goes deeper. They are drilled not just in languages but in dialects, regional customs, religious practices, local histories, social hierarchies, and cultural mannerisms. They learn to adopt entire identities, to think and speak and move as someone from Lorden or Aldergard or Mordantis would. They study the art of rumor-spreading, agitation, inciting unrest, and manipulating local politics from within. An Insitus must be able to disappear into a foreign society completely, becoming indistinguishable from those around them.
+
+Combat training is included but kept limited for most paths. Their time is too valuable for soldiering. Instead, the emphasis falls on high-intensity endurance work, running, climbing, vaulting, and acrobatics. Most trainees are taught to flee before they are taught to fight.
 
 The intellectual curriculum is equally demanding. Recruits study encryption, dead drops, coded messages, the histories and court structures of target kingdoms, and advanced memorization techniques. The specifics vary between agencies, each of which competes fiercely to produce the finest operatives.
 
-It is worth noting that the Insitus designation is not a separate career path but an additive role. Any Silentium or Mortis agent operating under deep cover simultaneously carries the Insitus designation for the duration of that assignment. A masked assassin and a long-term undercover operative are not mutually exclusive. Many of the Command's most valued agents are both.
+It is worth noting that exceptional agents may be cross-trained. A Mortis or Silentium with the right aptitude can be sent through Insitus training to add deep cover capabilities to their assassination skills. Similarly, an Insitus may receive limited training in the assassination arts if their mission profile requires it. These dual-role agents are rare but highly valued.
 
 Graduates who return to the capital, Valcris, have their housing, food, and medical care covered by the empire. When on active duty, they are on their own.
 
-Many Ravanians speak of these agents in hushed reverence, legends from the shadows. The agents themselves serve for different reasons. Some are driven by genuine honor and loyalty to Ravania. Some are too psychologically broken to want a normal life. Others believe that completing their mission will finally earn them something they have never had: a place to belong, a purpose, or perhaps even redemption.
+Many Ravanians speak of these agents in hushed reverence, legends from the shadows. The agents themselves serve for different reasons. Some are driven by honor and loyalty to Ravania. Some are too psychologically broken to want a normal life. Others believe that completing their mission will finally earn them something they have never had: a place to belong, a purpose, or perhaps even redemption.
+
+---
 
 # Intelligence Command
 
@@ -37,7 +41,9 @@ Many Ravanians speak of these agents in hushed reverence, legends from the shado
 
 **Magister Officiorum** - Directly below the Praefectus Officiorum, the Magister Officiorum oversees the operational networks of all agent paths across foreign kingdoms. They coordinate between the regional Magisters, manage the flow of intelligence upward to the Praefectus, and ensure the different branches do not work at cross purposes when operating in the same region.
 
-**Magister Insitorum** - Runs the full network of agents operating under deep cover across a specific kingdom or region. Always operates from within Ravania or a secure location and is never directly exposed in the field. Responsible for managing dead drops, coordinating intelligence gathering, and deciding which agents to activate and when. Reports directly to the Magister Officiorum. A Magister Insitorum is typically assigned to one kingdom or region for years at a time, building intimate knowledge of its political landscape and the agents embedded within it.
+**Magister Insitorum** - Runs the full network of Insitus agents operating under deep cover across a specific kingdom or region. Always operates from within Ravania or a secure location and is never directly exposed in the field. Responsible for managing dead drops, coordinating intelligence gathering, and deciding which agents to activate and when. Reports directly to the Magister Officiorum. A Magister Insitorum is typically assigned to one kingdom or region for years at a time, building intimate knowledge of its political landscape and the agents embedded within it.
+
+---
 
 ##### Agent Ranks
 
@@ -47,14 +53,14 @@ Many Ravanians speak of these agents in hushed reverence, legends from the shado
 
 **Silentium** - Assassination specialists whose defining skill is ensuring targets die quietly, leaving no political complications, no riots, and no trail leading back to the empire. They are not brawlers or battlefield killers. Their work is patience, preparation, and precision. A Silentium may spend weeks or months in position before a single action is taken. Those who demonstrate exceptional ability and the right qualities of mind are eventually considered for elevation to Mortis, and from there, formal introduction to the Magis Laboratorium.
 
-**Primus Insitus** - The senior designation within the Insitus additive role. A Primus Insitus is a Silentium or Mortis agent who has successfully completed at least one major deep cover mission and proven capable of managing multiple assets and recruiting local informants. They may coordinate several junior Insitus-designated agents operating in the same region, often without ever making direct contact with them.
+**Primus Insitus** - A master spy who has successfully operated deep cover for years, completing multiple high-value intelligence missions. They have proven capable of managing networks of local informants, recruiting assets within foreign governments, and coordinating other Insitus agents in the same region without direct contact. A Primus Insitus may remain embedded in a foreign court for a decade or more, rising through the ranks of that society, marrying into influential families, becoming trusted advisors, all while feeding intelligence back to Ravania and waiting for the moment they are activated for a critical operation. They are trusted to make strategic decisions in the field, adapt their mission parameters as situations evolve, and balance long-term intelligence value against immediate tactical opportunities.
 
-**Insitus** - The active deep cover designation, applied to any Silentium or Mortis agent currently embedded within a foreign court or enemy organization. It is not a rank but a status, one that can be held simultaneously with any point on the assassination path. An Insitus receives their missions through coded missives and instructions passed down from the Magister Insitorum.
+**Insitus** - Deep cover intelligence operatives trained in the arts of espionage, infiltration, and manipulation. An Insitus is embedded within foreign courts, merchant guilds, military organizations, or enemy territories for extended periods, ranging from a few months for quick operations to years or even a decade for deep integration missions. Their work is not primarily assassination, though they are capable of it when required. Instead, they gather sensitive information, map power structures, identify vulnerabilities, recruit local assets, spread rumors, incite riots or discord, manipulate local politics, and create conditions favorable to Ravanian interests. An Insitus must master not just the language of their target region but its customs, mannerisms, social codes, and cultural nuances well enough to become indistinguishable from a native. They receive missions through coded messages, dead drops, and carefully orchestrated signals, often operating for months without any contact from the Command. Some are activated frequently for specific tasks: poison a rival, kidnap a witness, sabotage a negotiation. Others are placed and left dormant, living normal lives, climbing the social ladder, waiting for the day they are called upon. An Insitus who successfully completes a major mission, who has proven they can integrate so completely that even close companions never suspect, may be considered for elevation to Primus Insitus.
 
 **Sanctus Delator** - Where a standard Delator roots out heresy through information and denunciation, the Sanctus Delator acts on it directly. Primarily deployed against internal threats, targeting heretical leaders and organized dissent within the empire itself. They are known for killings that are ruthless, theatrical, and deliberately symbolic, designed not just to eliminate a target but to send a message to those who might follow them.
 
-**Delator** - An alternative path within the Intelligence Command, most commonly taken by agents who are deeply religious rather than those suited to the precision of the assassination path. Often held in parallel with a position in the church. Delators are professional informants and denouncers, tasked with identifying and reporting sedition, heresy, and disloyalty to the empire. They are widely hated but considered necessary. Most wear masks to protect their identities. Their religious zeal makes them effective, but also unpredictable. Other agents within the Command are wise to be careful around them. A Delator who suspects heresy does not distinguish easily between a foreign enemy and a colleague whose methods they find troubling.
+**Delator** - An alternative path within the Intelligence Command, most commonly taken by agents who are deeply religious rather than those suited to the precision of the assassination path or the long patience of deep cover work. Often held in parallel with a position in the church. Delators are professional informants and denouncers, tasked with identifying and reporting sedition, heresy, and disloyalty to the empire. They are widely hated but considered necessary. Most wear masks to protect their identities. Their religious zeal makes them effective, but also unpredictable. Other agents within the Command are wise to be careful around them. A Delator who suspects heresy does not distinguish easily between a foreign enemy and a colleague whose methods they find troubling.
 
 **Notarius** - Intelligence analyst and record keeper. Not a field role. Manages incoming reports, decodes messages, and identifies patterns across gathered intelligence. The unseen foundation that keeps the Command functioning.
 
-**Candidatus** - An agent who has completed training but has yet to prove themselves in the field. Their first mission determines whether they earn full standing as a Silentium or Delator. If the mission is completed but falls short of its full objectives, they may be assigned another before a final judgment is made. Those who fail outright either wash out into the Notarius track or are dealt with more permanently, depending on what they know and what they have proven themselves incapable of.
+**Candidatus** - An agent who has completed training but has yet to prove themselves in the field. Their first mission determines whether they earn full standing as a Silentium, Insitus, or Delator. If the mission is completed but falls short of its full objectives, they may be assigned another before a final judgment is made. Those who fail outright either wash out into the Notarius track or are dealt with more permanently, depending on what they know and what they have proven themselves incapable of.
