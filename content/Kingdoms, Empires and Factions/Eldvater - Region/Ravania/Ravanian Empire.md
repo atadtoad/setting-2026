@@ -1,16 +1,16 @@
 ---
 publish: true
 created: 2026-01-17T16:00:13.228+02:00
-modified: 2026-02-17T10:27:44.077+02:00
+modified: 2026-02-17T19:33:45.071+02:00
 cssclasses: ""
 ---
 
 ### Summary
-Ruled by Kaiser Margric Lucius Artas Ordius III with an iron fist, the Ravanian Empire follows a dogma rooted in ancient claims. They believe that prior to the Magekings and the Sorsarchs who fractured the land, and before the Bounded Wars that followed, Ravania controlled the eastren regions extending to the ruined kingdom of Greschia, which they consider their original homeland.
+Ruled by Kaiser Margric Lucius Artas Ordos III with an iron fist, the Ravanian Empire follows a dogma rooted in ancient claims. They believe that prior to the Magekings and the Sorsarchs who fractured the land, and before the Bounded Wars that followed, Ravania controlled the eastren regions extending to the ruined kingdom of Greschia, which they consider their original homeland.
 
 According to their history, an ancient war with the old kingdoms of Norvast and their profane mages allowed the Colossi of the Wildvasts to take over their homelands, killing most of their people. The few who survived the devastation of the Bounded Wars carried the tradition of Greschian sorceries with them. These arts helped them conquer most of eastern Eldvatr, which at the time belonged to wild tribes of Demiliss, Elves, Gigamar, and unallied humans. They recruited the humans to their side, killed off the Demiliss, and gave the Elves a golden cage in exchange for their help with Celesian magics. The remaining tribes were annihilated and forgotten.
 
-The Empire follows the religion of Divinor Imperium, which serves as both faith and political doctrine. In this belief system, the Emperor is considered part of their divine god, who is also their ancient Greschian founder, Margric Artas Ordius. Each heir to the Empire undergoes a secret ritual that grants them Margric's wisdom.
+The Empire follows the religion of Divinor Imperium, which serves as both faith and political doctrine. In this belief system, the Emperor is considered part of their divine god, who is also their ancient Greschian founder, Margric Artas Ordos. Each heir to the Empire undergoes a secret ritual that grants them Margric's wisdom.
 
 The Empire has been slowly expanding its territory, creeping toward Lorden while constantly raiding and skirmishing with the nearby kingdom of Tannen by sea and Aldergard by land. They avoid conflict with the Sorcracy of Mar'gat and maintain a close alliance with the Republic of Garmond, which broke off from the Ravanian Empire during the last war with Lorden a century ago, after the Crawl Vein Plague ravaged its northern lands.
 
@@ -307,7 +307,7 @@ They fashion of these two social classes is nearly identical, however, Liberti u
 
 
 ### Crest of Ravanian Empire
-The White Lion wreathed in gold, on an black metal shield is the Crest of the Royal House of Artas Ordius and in turn, that of the Ravanian Empire.
+The White Lion wreathed in gold, on an black metal shield is the Crest of the Royal House of Artas Ordos and in turn, that of the Ravanian Empire.
 ![[Images/Ravania_Crest.png]]
 
 
