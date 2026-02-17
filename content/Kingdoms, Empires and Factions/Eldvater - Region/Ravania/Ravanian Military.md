@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T22:20:05.736+02:00
-modified: 2026-02-16T22:21:18.644+02:00
+modified: 2026-02-17T18:18:59.349+02:00
 cssclasses: ""
 ---
 
@@ -35,32 +35,6 @@ More about the religion of Ravania, the [[Religions/Religion - Divinor Imperium/
 **Magister Sigilorum** - Master of Sigilsists, manages battlefield enchantments and fortification magic.  equivelent in rank to Zenturios
 
 **Sigilorum** - attached to companies, responsible for enchanting weapons, armor, and fortifications. they are equivelent in rank to Ligonier 
-
-
-
-
-#### Religious Ranks
-In Ravania religion is as much a military as it is religion.
-
-**Pontifex Maxima** - Greatest Bridge-Builder. Supreme head of the entire Divinor Imperium priesthood. Never leaves the capital. Governs all church operations, interprets the Kaiser's divine will, conducts the secret coronation rituals that grant each heir Margric's wisdom. Second only to the Kaiser himself in religious matters. Manages all church politics, appointments, and doctrine. furthermore, the priestess of this role is the only one allowed to bear the children of the Kaiser. 
-
-**Sacerdos Provincialis** - Provincial High Priestess. Oversees all religious activities within a single province. Equivalent rank to Proconsul.
-
-**Apostola Militant** - Trained in combat and religious debate. prepares populations for eventual Ravanian conquest.  often sent in the frontlines as **Divinor Arma**
-
-**Missionaria Armata** - Armed Missionary. spreader of faith and capable of battle when needed. Often work alongside Insiti (deep cover spies) but with overt religious mission.
-
-**Venator** - Heretic Hunter. Specifically tracks and eliminates wild casters, followers of other religions. Religious zealots as much as spies. works closely with Delators.
-
-**Ministra** - Minister. learns rituals, handles day-to-day temple duties.
-
-**Carnifex** - Torturer of heretics brought in by Venators.
-
-**Sacerdos** (plural Sacerdotes) - Priestess. Conducts regular ceremonies, maintains household Divinas shrines, performs marriages and funerals. The most common of the church.
-
-**Scriba Sacra** - Sacred Scribe. Records religious texts, maintains copies of Divinor Imperium tome, documents confessions and heretic trials.
-
-**Acolyta** - Acolyte. Trainee priestess, learning religious doctrine and ceremonies. Usually young women from Equestrian or wealthy Plebian families
 
 
 #### Riding Sabers

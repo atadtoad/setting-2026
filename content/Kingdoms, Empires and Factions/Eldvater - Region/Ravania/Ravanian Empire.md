@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:00:13.228+02:00
-modified: 2026-02-16T22:21:29.554+02:00
+modified: 2026-02-17T10:27:44.077+02:00
 cssclasses: ""
 ---
 
@@ -52,9 +52,9 @@ The minorities within the Ravanian Empire, mentioned by size, include:
 **Gigamar:** Originally residing in Morgenor lands, these Gigamar whos bloodline originated in Tannen are now allowed to live within small hamlets surrounding the keep of Morgenor. They are kept under direct supervision and used mostly as tools of war and construction.
 These Gigamar are treated either as slaves or liberti depending on their position, the warriors are usually given more honor out of fear and awe. while their slave counter-part working in Ravanian districts are just a cut-above Demiliss due to their physical superiorit.
 
-**Elves and half-elves:** Captured during the founding of Ravania, they were forced to work in its Royal Magis Laboratorium or were put to death, put through enslavement and experiments. those in the Magis Laboratorium are treated with honor given to the Equestrians class or even a bit above, those who are not, are as equal to Demiliss, useless.
+**Elves and half-elves:** Captured during the founding of Ravania, they were given the option to work in its Royal Magis Laboratorium contribution information, elven secrets. or were put to death, put through enslavement and experiments. those in the Magis Laboratorium are treated with honor given to the Equestrians class or even a bit above, those who are not, are as equal to Demiliss, useless.
 
-**Demiliss:** A few survivors live within the slums of the empire near the large town of Kalderia. They engage in illegal trade and smuggling with the Sorcracy of Nebelhafen and Rotsport. They are rarely imprisoned and are usually given instant death by guards. otherwise they are taken in as slaves and are treated with the dissmisal of an inanimate object, otherwise the useful well-serving servants are given minimal respect.
+**Demiliss:** A few survivors live within the slums of the empire near the large town of Kalderia. They engage in illegal trade and smuggling with the Sorcracy of Nebelhafen and Rotsport. They are rarely imprisoned and are usually given instant death by guards for exisitng or both. otherwise they are taken in as slaves and are treated with the dissmisal of an inanimate object,  the useful well-serving servants are given minimal respect.
 
 
 

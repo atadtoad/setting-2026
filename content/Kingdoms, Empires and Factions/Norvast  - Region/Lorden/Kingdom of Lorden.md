@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-02-17T00:04:50.591+02:00
+modified: 2026-02-17T01:00:50.191+02:00
 cssclasses: ""
 ---
 
@@ -37,7 +37,7 @@ Additionally, these Alderbeasts at times have different preferences and customs 
 
 Additionally, many of the Wisewomen and wild witches of Norvast use the bones of lesser animals to read the omens left by the Alderbeasts, with a strong belief that they are somehow connected to the Colossi.
 
-Alongside this faith exists the [[Religions/Religion - The Myrkvargr Covenant/The Myrkvargr Covenant \|The Myrkvargr Covenant]], a religion that reveres the Alderbeast of the black wolf of Lorden. It is believed to have accompanied the folk of Norvast since ages past, protecting them even in their most dire times.
+Alongside this faith exists the [[Religions/Religion - The Myrkvargr Covenant/The Myrkvargr Covenant \|The Myrkvargr Covenant]], a religion that reveres the Alderbeast of the black wolf of Lorden. It is believed to have accompanied the folk of Norvast since ages past, protecting them even in their most dire times. 
 
 These two prevalent religions are similar in aspect yet differ greatly in scale and reverence. They are the [[Religions/Religion - The Myrkvargr Covenant/The Myrkvargr Covenant \|The Myrkvargr Covenant]] and the [[Religions/Religion - Alderdyr/Alderdyr\|Alderdyr]] faith.
 
