@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T21:55:42.364+02:00
-modified: 2026-02-17T19:58:48.736+02:00
+modified: 2026-02-19T00:38:24.035+02:00
 cssclasses: ""
 ---
 
@@ -10,6 +10,7 @@ These women of high zeal and fervor do fulfil many roles in the empire, from hun
 
 They are known to be extremely vicious and inquisitive hunting any whif of heresy and descent or critic towards the emperor, while one may critize him publicly, doing it near a Priestess is paramount to suicide. 
 
+A priestess, is taken from her home as an acolyte able to return when she is a fully fledged priestess.
 ## Recruitment Method
 The priestesses of the Divinor Imperium are exclusively women, taken at a young age and trained in the Divinor Imperium Grimoire. This grimoire contains Aurian sorcery, a special branch of Greschian magic invented by the Pontifex Maxima of old. Only specific individuals can cast this augmented sorcery. If a child cannot wield it by age nine, she does not continue on the path to priesthood. She is either released back to her family or recruited as a Scriba Sacra to copy sacred texts.
 
