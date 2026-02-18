@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T22:40:14.012+02:00
-modified: 2026-02-16T22:47:23.462+02:00
+modified: 2026-02-18T22:05:04.363+02:00
 cssclasses: ""
 ---
 
@@ -14,6 +14,22 @@ Greschian spellcasters may hone their expertise in various disciplines. Some mas
 The true strength of Greschian magic lies in summoning demonic powers. This capability renders Greschian magic forbidden in most lands beyond Ravania's borders. Even the ability to cast such magic requires a specific ritual known as Demonic Bonding.
 
 While anyone may attempt to bind themselves to the Circle of Greschian sorcery, only those with Greschian blood can do so safely and wield potent power from the start.
+
+In ancient Greschia, only those of royal blood were sanctioned to bind to the Bounded Circle. This was sacred law, meant to keep the power and burden of Gheliach within the ruling family.
+
+In current times, the Ravanian Empire claims this magic as their rightful inheritance. Only those of Ravanian blood, the descendants of both Veistyria and Greschia, are permitted to learn Greschian sorceries and attempt the binding. The empire enforces this as both religious doctrine and imperial law.
+
+However, nothing physically prevents someone from reaching the Ruined Kingdom of Greschia and attempting to bind to the circle themselves. The Bounded Circle does not ask for permission or check bloodlines before allowing an attempt. But any non-Ravanian who successfully binds to the circle is declared a heretical enemy of the empire. Ravania considers such individuals to be thieves of sacred power, and they will be hunted down and destroyed without mercy.
+
+The Greschian Sorcery doesnt use it's own user bloods it uses the blood the demon pool in Gheliach, although they can still use their own blood for spells.  they can not use the blood of their enemies or fallen men.
+
+The power of Greschian Sorceries can be used for blood divination, however for combat it usually has three known archtypes to learn
+
+Demonology - Summoning Demons related combat talent for example shooting a blood bolt with Hematic can cause it suddenly grow a demon wolves head and bite as well.
+
+Hematics - Pure offensive use of Greschian Sorceries like shooting blood blades, and other offensive attacks. 
+
+Vitrumism - The ability to crystalize blood to make temporary weapons, temporary shields and gain the ability to crystalize blood into a hardened material
 
 #### Visual Magics of Greschian Sorcery 
 This is meant as a vibe and aesthetics not specific abilities or spells but can be used as an inspiration. 

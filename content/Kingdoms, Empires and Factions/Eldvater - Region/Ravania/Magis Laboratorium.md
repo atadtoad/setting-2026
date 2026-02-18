@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T22:15:29.443+02:00
-modified: 2026-02-16T22:20:58.071+02:00
+modified: 2026-02-17T21:58:31.364+02:00
 cssclasses: ""
 ---
 
@@ -22,8 +22,12 @@ Within the Magis Laboratorium exists a hierarchy of ranks beginning with
 
 **Artifex** - Fully trained practitioner who conducts independent research or creates enchantments/alchemical compounds. 
 
+**Magister Profanus** - Senior elven scholar who has proven invaluable over decades of service despite practicing "profane" arts. Consulted on research projects where elven knowledge is needed, particularly regarding fae lore, ancient elven texts, and Celesian magical theory. Commands respect equal to Artifex or higher due to their utility, though their magic itself is still considered inferior. Some have been in the Laboratorium since its founding.
+
 **Adeptus** - . Advanced student who has proven basic competency and chosen a specialization Greschian sorcery, Sigilism, Alchemy, Morphalhemy, etc.
 
 **Discipulus** - Student. Entry level, learning basic magical theory, alchemy, or sigilism. Ages typically nine after being checked for potency.
+
+**Traditus** - Newly arrived elf who has chosen the Laboratorium over death or enslavement. Currently being evaluated for their knowledge and skills. Those who don't are reassigned to slavery or worse.
 
 

@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T22:16:28.478+02:00
-modified: 2026-02-17T20:26:49.337+02:00
+modified: 2026-02-17T21:09:46.991+02:00
 cssclasses: ""
 ---
 
@@ -46,6 +46,8 @@ Many Ravanians speak of these agents in hushed reverence, legends from the shado
 ---
 
 ##### Agent Ranks
+
+Maximus Insitus Mortis - Rank given only to Primus Mortis who are also Primus Insitus, legends. 
 
 **Primus Mortis** - The apex of the assassination path. A Primus Mortis is a Mortis agent who has undergone years of additional rigorous training specifically oriented around killing with Greschian Sorceries. This rank cannot be reached through Sigilism alone. The candidate must make the pilgrimage to attune to the Bounded Circle of Greschia and then spend years mastering how to apply that power in the context of elimination, threading sorcery through an operation without leaving identifiable traces, using it to bypass defenses, enhance their own capabilities, or destroy a target in ways that appear natural or untraceable. They are capable of leading small teams and are trusted with the most dangerous high-value assignments the Command can produce. Because Greschian Sorceries are highly identifiable to those who know what to look for, a Primus Mortis deployed outside Ravanian borders operates under strict expectation: if captured, they are to take their own life before interrogation. Escape is preferred. Capture without death is not acceptable.
 

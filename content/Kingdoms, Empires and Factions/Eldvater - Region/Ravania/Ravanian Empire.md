@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:00:13.228+02:00
-modified: 2026-02-17T20:47:56.394+02:00
+modified: 2026-02-18T21:54:01.465+02:00
 cssclasses: ""
 ---
 
@@ -82,7 +82,12 @@ The Ravanians follow their religion, the Divinor Imperium faith, which operates 
 
 #### Power Structure
 
-Emperor - Rulers Senatores - Chosen by Emperor, can be stripped of its rank by it, helps makes decisions and laws. Proconsul - Ruler of a singular province within Ravania, equivalent of a Baron. Gresch - A Greschian Sorcerer, within military rank. Equestrians - Upper class, nobility or high military rank. Knight equivalent. Plebians - Free Citizens, majority Liberti - Commonly Elves or Gigamar that have earned the honor to be free as craftsman, traders, and merchants in the Empire, usually after many years of loyal duty or an outstanding feat. This is extremely rare for a Demiliss, who even then will face much prejudice and distrust. Slaves - Usually non-Veist humans, Gigamar, Demiliss, or elves.
+Emperor - Rulers 
+Senatores - Chosen by Emperor, can be stripped of its rank by it, helps makes decisions and laws. 
+Proconsul - Ruler of a singular province within Ravania, equivalent of a Baron. 
+Gresch - A Greschian Sorcerer, within military rank. 
+Equestrians - Upper class, nobility or high military rank. Knight equivalent. Plebians - Free Citizens, majority 
+Liberti - Commonly Elves or Gigamar that have earned the honor to be free as craftsman, traders, and merchants in the Empire, usually after many years of loyal duty or an outstanding feat. This is extremely rare for a Demiliss, who even then will face much prejudice and distrust. Slaves - Usually non-Veist humans, Gigamar, Demiliss, or elves.
 
 #### Values
 
