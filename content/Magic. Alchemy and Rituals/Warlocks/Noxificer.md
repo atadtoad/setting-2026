@@ -1,16 +1,20 @@
 ---
 publish: true
 created: 2026-02-19T02:01:14.367+02:00
-modified: 2026-02-19T02:20:27.569+02:00
+modified: 2026-02-21T12:03:14.048+02:00
 cssclasses: ""
 ---
 
-Individuals casting themse magics are known as Bilerats, literarl rats using bile and poison, disgusting sewer slum dwelling scum. these magic users can found anywhere due to the way they bind thesmevles to their magical circle and entity, these warlocks are almost always from slum dwelling urchins, they bound thesmlves to a circle that seems to be bounded in a body of water traveling through the streams and rivers, preferring sewers, mossy wells, swamps, marshes and other places where life is teeming in the water, the warlocks who managed to bind thesmlves to this body of water report it is a extremely foul smelling and binding to it happened by accident from stories of desperate urchins drinking disgusting waters out of despration, a thug who's near-dead body was dumped into desolate body of water, or perhaps even a random person who just drank from an unmaintianed well. 
+Those who practice these magics are known as Bilerats, a derogatory term for street rats wielding bile and poison. Disgusting sewer-dwelling scum in the eyes of proper society.
 
-The abilities of Noxificer is creating multiple type of poison and their types,  the Noxificer gains the ability to consume multitude of deadly, sick-inducing foods without penalty, and also the ability to withstand surviving in extreme filth even when wounded, these casters instead siphon these poisones and venomes casuing their veins to slowly turn a shade of green or purple, eventually their iris, scelra and even their teeth or blood depending on how much poison they have stored, as such upon using these poisons be it via a form of gas, liquid or vapor they slowly lose this discoloration. 
+These warlocks bind themselves to a peculiar magical circle, one that exists not in a fixed location but within bodies of water. The entity travels through streams and rivers, preferring sewers, mossy wells, swamps, marshes, and other places where life teems in stagnant water. Noxificers are almost always slum-dwelling urchins who stumbled into their power by accident rather than intent.
 
-besides the near-immunity to poison and diseases they also gain changes to their bodies such as increased  mobility, agility, flexiability and speed. most Noxificer are quite acrobatic even if heavy in frame, at least more than they prior to becoming Noxificers, the circle of Noxificer magics prevent one to attune to another circle, yet they can still use magics that do not require attuning such as Arcanist and Sigilists do, some circles more powerful in binding than that of the Noxificers are able to overwrite it out of one's self yet -is considered rather dangerous and requires the person to purse thesmlevs of all poisons prior. 
+The binding happens through desperate contact with fouled water. Stories tell of starving urchins drinking from disgusting sources out of desperation, thugs with near-dead bodies dumped into desolate pools, or unlucky souls who simply drank from an unmaintained well. Those who survive report the water as extremely foul-smelling. No one seeks this power deliberately. It finds them.
 
-The abilitites of a Noxificer does not allow it to manipulate poison after it leaves its body, although it control the form and shape it took when it did, one of the most popular weapons among Noxificer are hollowed, from daggers with vials and holes ran through them to pass and store poison, to blowguns, throwing daggers and other similiar in style blades.
+Noxificers gain the ability to create multiple types of poisons in various forms. Their bodies adapt to toxins, allowing them to consume deadly or sickness-inducing substances without penalty and survive in extreme filth even when wounded. Rather than expelling poisons immediately, Noxificers siphon and store them within their bodies. Their veins slowly turn shades of green or purple. With greater accumulation, the discoloration spreads to their irises, sclera, teeth, and even their blood. When they release these poisons as gas, liquid, or vapor, the discoloration fades proportionally.
 
-#### Visual Magics of Noxificers
+Beyond near-immunity to poison and disease, Noxificers experience physical changes. They gain increased mobility, agility, flexibility, and speed. Most become surprisingly acrobatic, even those heavy in frame, far more than they were before binding.
+
+The Noxificer circle prevents binding to any other magical circle. However, they can still practice magics that don't require attunement, such as those used by Arcanists and Sigilists. More powerful circles can overwrite the Noxificer binding, but the process is dangerous and requires the individual to purge all stored poisons beforehand.
+
+Noxificers cannot manipulate poison after it leaves their body. They can only control the form and shape it takes upon release. Popular weapons among Noxificers are hollowed implements designed to deliver poison: daggers with internal vials and channels, blowguns, throwing daggers, and similar piercing weapons that can store or pass toxins through their construction.

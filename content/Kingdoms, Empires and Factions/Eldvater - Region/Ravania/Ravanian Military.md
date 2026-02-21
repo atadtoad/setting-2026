@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T22:20:05.736+02:00
-modified: 2026-02-17T18:18:59.349+02:00
+modified: 2026-02-20T14:19:45.198+02:00
 cssclasses: ""
 ---
 
@@ -18,7 +18,7 @@ More about the religion of Ravania, the [[Religions/Religion - Divinor Imperium/
 
 **Legatus** - Legion commander, supreme field commander. Commands 4,000-6,000 men. Always Equestrian or Proconsul rank.
 
-**Zenturio** - Commands 80-100 infantry. The backbone of Ravanian military structure. Veterans of multiple campaigns usually of Equestrian rank.
+**Zenturio** - Commands 80-100 infantry.  Veterans of multiple campaigns usually of Equestrian rank.
 
 **Ligonier** - Professional soldier, career military. usually of lower Equestrian rank. 
 **Decurio** Squad leader of 10 Horseriders. First promotion for promising Horsemen, usually still Plebian class. slightly above Decarch.

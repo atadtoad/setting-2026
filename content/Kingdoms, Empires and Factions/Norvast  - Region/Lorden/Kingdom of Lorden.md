@@ -1,10 +1,11 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-02-17T01:00:50.191+02:00
+modified: 2026-02-20T19:33:03.034+02:00
 cssclasses: ""
 ---
 
+Langauge of Lorden: Alderil - sounds like a mix of Norweigen and Swedish.
 
 
 still wip

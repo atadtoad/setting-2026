@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:00:13.228+02:00
-modified: 2026-02-18T21:54:01.465+02:00
+modified: 2026-02-20T16:27:33.999+02:00
 cssclasses: ""
 ---
 
@@ -68,6 +68,8 @@ Celesian magics practiced by enslaved elves are considered profane, not true art
 
 It bears noting that in current times, the distinction between Veist and Greschian lineage has blurred. The bloodlines have intermingled so thoroughly since the days of Veistyria that they are now considered essentially the same. The distinction remains mostly if latent potency for magic is present within a family, making it dubbed as "Greschian" in nature.
 
+##### Language
+The Ravanian langauge is called Astriv, similiar in sound to a mix of ancient roman and old germanic langauges.
 ##### Societal
 
 Ravanian children are tested at the age of nine for Greschian sorcery potential. If they are found potent, they are given training at the Royal Magis Laboratorium, many times being separated from their family. Yet they and their family benefit from it greatly and can reunite later on when the child has graduated into a fully fledged sorcerer. Battalion service is mandatory for all able-bodied Veist humans, even if for a temporary time. Veterans hold elevated social status, and military rank often outweighs noble birth in matters of honor and authority.

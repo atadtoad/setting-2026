@@ -1,12 +1,13 @@
 ---
 publish: true
 created: 2026-02-19T02:15:06.987+02:00
-modified: 2026-02-19T02:21:10.877+02:00
+modified: 2026-02-20T14:02:15.618+02:00
 cssclasses: ""
 ---
 
 # Lucius Commodius
 
+![[Images/Characters/Lucius_CommodiusAge13.png]]
 
 ## Character Background
 
