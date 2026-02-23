@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-20T13:47:01.505+02:00
-modified: 2026-02-21T17:38:53.793+02:00
+modified: 2026-02-22T21:10:41.570+02:00
 cssclasses: ""
 ---
 
@@ -13,473 +13,56 @@ Story so far
 
 The story of Lucius Commodius starts at the year 608, a young boy with an Aurian priestess sister, Lucius at the age of 13, he was told by his father he is coming with him on a trip not knowing what it is, this trip is the first time his father took him.
 
-## Session Notes
+## Sessions
 
-## Session01
+## Session01 - Summary
 
-SCENE 1: HOUSE COMMODIUS - VALCRIS
+* Talked to everyone in Home.
+* Went on Carriage read about Military Logistics a bit.
+* Got to The Merchant's house.
+* Passed the test with a caviet.
 
-**SETTING:**
+Lucius met his mother who was kind to him, and he showed her his sister's ring. Lucius also met his sister Flavia who was very kind to him and made hin a Cast Ring of Aurian Sorcery to heal minor injuries until it's depleted. 
+They had a caring hug and she learened that Lucius favorite food is Honey-Glazed Beef Stew, additionally, he made her laugh and she was happy to see him. Lucius played with his training swords in his room and decided to leave the doll of a rabbit Flavia made him at home. for upcoming trip his father took him.
 
-The house sits in a respectable quarter of Valcris, neither grand nor humble. Stone walls the color of storm clouds, trimmed with dark wood that's been oiled until it gleams. The Divinas shrine in the entryway burns with proper candles. Red for your father's military service. Gold for your sister's ascension to the priesthood. The air smells of beeswax and the faint metallic tang of polished Sablesteel. A family sword hangs above the shrine, its dark blade catching the candlelight.
+On the trip where Lucius didn't know he went to his father's contact, a man known as "The Merchant" was his fathers contact, on the outskirts of Kalderia, on the outskirts of it's Industrial district. next to the Outskirts of the Slums. In there Lucius met the Merchant, Corvus, Gaius and briefly Varria and Cassia, he dodged Gaius's push, that happened whenever Lucius tried to talk to Varria, something Corvus noted, additionally, on multiple occasions Lucius missed Eboneye the Lamia Demiliss In the Merchant's house never got to meet him in the end. 
 
-Everything is in its place. Everything is correct. 
+During the test where the people in the Merchant's house made sure Lucius saw his father speak to some fake-Lorden informant along with Varria, he didn't raise anyone's attention went to bed after he the fake Lorden informant give his father package and his father give back a Letter, in the breakfast he took bread and went to his room to read, then got investiaged by Varro, lying extremely well and connivingly, Varro thinking he might have believed the boy if he didnt for certain know it was orchestrated and Lucian knew the truth and  saw everything from Varria in the middle of his father and the contact and the fake exchange they had which Lucius didn't know was fake until the ride by Carriage with his father to the Kalderia's military academy. earning him high marks on his first evaluation, however, Varro marked that Lucius was too protective of his family instead of telling the truth for the benefit of the Ravanian empire. 
 
+Now they are in a Carriage going to see the Kalderia's academy before going back home.
 
-Different rooms:
+Memorable moments: 
+Lucius Evading Gaius - Due to Lucius speaking Varria which Gaius was intersted in, he went to push Lucius away, however Lucius deftly dodged away, a notably moment that Lucius wasnt a complete push over, even being smaller and younger. 
 
+Gaius and Lucius Sneaking - The boys at age 13&14 went sneaking around the Merchant's house, eventually they listened in on the meeting's room door, where they overheard about someone not being on the list(talking about Lucius not meant to be here for evaluation) and additionally about the "unforutnate situation of the girl" alluding to Varria, without saying what actually happened to her, they then ran back to the antechamber.
 
-(Free from around the house )
+Lucius's Snake remark- When Lucius ran back with Gaius after sneaking from the easvedropping, Lucius stopped by the bathroom to pee, he heared something outside the door and saw the tailtip of a large snake, he then ran to the antechamber and told Gaius he saw a large snake in the bathroom, Gaius remarked if he meant his own pecker? Corvus snickered. Lucius and Gaius laughed.
 
-**WHAT'S HAPPENING:**
+Saved bread for the Merchant - The merchant asked Lucius to save him a bit of bread so Gaius wont eat all the food in the breakfast, he did save him a piece, and he was grateful. to the Merchant it showed genuine care, albeit how small it was.
 
-Your father is already dressed for travel. Dark cloak, traveling boots, a pack that suggests a journey of days rather than hours. He glances at you once, nods approval at your readiness.
+Quintos is proud of Lucius - Quintos told his son he was proud of him of how he handled himself at the interrogation with Varro. put a hand on his son's shoulder in the Carriage and told him "I'm proud of you son".
 
-"The carriage is waiting," he says. Nothing more.
+## Session02 - Notes
 
-Your mother appears in the doorway. She doesn't speak. Doesn't embrace you. Just watches with that steady, unreadable expression she's perfected over years of military marriages. She knows better than to ask where you're going or why.
+Lucius and Quintus reach the military academy. 
+Quintus needs to meet with the Academy Commandant to finalize enrollment. Standard procedure for officers delivering their sons.
+You're thirteen, not a child. Find the barracks. Find the training yards. Learn the layout. I'll find you before evening formation.
+ 
 
-Your father clasps her hand once. Brief. Formal. Then turns toward the door.
+There: 
+ When reaches an area he might be cornered have a few fake bullies that were told to test him push him around, say they heard about him, enrolling because of his sister's perdigree, that his fathers rank inst high enough alluding to sexual favors she did to get him in the Kalderian academy. 
 
-Outside, morning fog clings to the cobblestones like something reluctant to leave.
+they will verbally abuse him as much as they can and push him around, only letting him go if he admits his sister is a whore. this is meant to test what will Lucius do when pushed to a corner. 
 
----
+if holds long enough have a girl rush into headkick someone in the head and rush in to help him. 
 
-SCENE 2: THE CARRIAGE
+In training yard - have an instrcutor see him and offer hin a chacne to prove himself combat test
 
-**SETTING:**
+additionally when he passes by a hall have him be called by a teacher, she will ask him and explain about potency 
 
-The carriage is black lacquer trimmed with red and gold, the colors of Equestrian rank worn like a quiet boast. Victorian in style, with high wheels and an enclosed cabin that promises privacy and status in equal measure. The interior is dark leather, well-worn but maintained. Small windows with heavy curtains. The smell of polish and old smoke. A lantern swings gently from a brass hook, unlit in the grey morning.
 
-**WHAT'S HAPPENING:**
 
-Your father settles into the seat across from you. The carriage lurches into motion. Valcris begins to slide past the windows. Stone buildings, morning markets, the great cathedral spires rising against pale sky.
-
-Your father doesn't speak. He's looking out the window, but his eyes aren't focused on anything. Thinking. Planning. The same distant expression you've seen a hundred times when he returns from his trips.
-
-The city gives way to farmland. Then scattered villages. Then the long, empty road toward Kalderia and the border regions beyond.
-
-The journey takes hours. The silence stretches.
-
----
-
-SCENE 3: ARRIVAL - KALDERIA (EXTERIOR)
-
-**SETTING:**
-
-Kalderia smells different from Valcris. Smoke and dye chemicals and something sour that might be the tanning yards. The industrial quarter sprawls in all directions, workshops and warehouses and cramped worker housing. The slums press close, visible in the near distance like a stain that won't wash out.
-
-The house your father stops at is unremarkable. A merchant's place, three stories of weathered brick with shuttered windows. A wooden sign creaks in the wind: a simple weaver's pattern, advertising textiles and dyes. The kind of business you'd pass without a second glance.
-
-**WHAT'S HAPPENING:**
-
-Your father doesn't explain why you're here. Just gestures for you to follow.
-
-He knocks thrice, waits.
-
-A man opens the door to the store's front. the man has Plain merchant's clothes. Plain face. He nods to your father like they've met before, glances at you without particular interest, and steps aside.
-
-"Quintus," the man says. "They're already upstairs."
-
-Your father nods. "My son will wait in the anteroom."
-
-The merchant looks at you again. A flicker of something. Surprise? Confusion? It's gone too quickly to read.
-
-"Of course," he says.
-
----
-
-SCENE 4: INSIDE THE HOUSE
-
-**SETTING:**
-
-Inside is what you'd expect from a textile merchant's house. Narrow hallways. Practical furnishings. A faint smell of dye and fabric. The floors are wood, well-maintained but not expensive. Shuttered windows keep the light muted even in daytime.
-
-Voices drift from somewhere above. Men talking. Nothing urgent. Just the low murmur of business being conducted.
-
-**WHAT'S HAPPENING:**
-
-The merchant leads you both upstairs. Your father follows like he's been here before. Maybe he has. He travels often enough. Maybe this is just another contact, another stop on whatever business takes him away from home for weeks at a time.
-
-The merchant stops at a door. "The others are in here," he says to you. Then to your father: "End of the hall."
-
-Your father glances at you. "Wait here. I won't be long." He pauses. "There are other children. Be polite."
-
-Then he's walking down the hall, toward the voices and the closed door at the end.
-
-The merchant opens the door to the sitting room and gestures you inside.
-
----
-
-SCENE 5: THE SITTING ROOM - MEETING THE OTHERS
-
-**SETTING:**
-
-The room is comfortable enough. Not wealthy, but maintained. A long sofa upholstered in faded red fabric, several chairs, a low table with a water pitcher and cups. The walls are plain except for a single painting of some long-dead Proconsul. The shutters are closed, keeping the room dim and cool.
-
-**WHAT'S HAPPENING:**
-
-Two others are already here.
-
-A boy, maybe fourteen, sprawls on the sofa like he owns it. Dark hair, broad shoulders, the confident posture of someone who's never been told no by anyone who mattered. He looks up when you enter. Eyes sharp. Assessing.
-
-"Another one," he says. "Who's your father?"
-
-Before you can answer, he continues. "Mine's Tribune Marcus Silo. Northern campaigns. You?"
-
-Gaius Silo. The name carries weight even if you've never met him. Military family. The kind of boy who's been training for war since he could walk.
-
-In the corner, almost invisible, a girl stands with her back against the wall. Younger than you. Maybe twelve. Thin in the way that suggests hunger more than youth. Her hair is dark and badly cut, like someone took a knife to it without care. She doesn't look at you. Doesn't look at anything. Just stands there, trying to make herself smaller.
-
-A third figure sits in a chair by the far wall. 
-
-A boy a bit older than you and Gaius. Pale skin, dark eyes, the kind of stillness that suggests he's more comfortable being ignored. He's watching you. Has been since you walked in.
-
-*Talking to Varria casues Gaius to get mad, he likes her*
-
-
----
-
-SCENE 6: THE BASEMENT (IF LUCIUS EXPLORES)
-
-**SETTING:**
-
-If you wander the hall, you find a narrow staircase leading down. Steep. Dark. The kind servants would use. The smell of something cooking drifts up, along with the sour smell of old stone and damp.
-
-**WHAT'S HAPPENING:**
-
-The stairs lead to a cramped kitchen. Low ceiling. A single lamp burning.
-
-A woman stands at the wash basin, scrubbing dishes. Grey skin. Demiliss. She freezes when she hears footsteps. The kind of freeze that comes from years of learning that being noticed can be dangerous.
-
-She doesn't turn around. Just stands there, shoulders hunched, waiting.
-
-If you speak, she flinches. Doesn't respond. Just keeps scrubbing, faster now, like proving she's working will make you leave her alone.
-
-A door in the corner leads to what must be her quarters. A cot. A blanket. Nothing else.
-
-Above, voices continue. Business conducted over her head, in rooms she's never allowed to enter.
-
----
-
-SCENE 7: UPSTAIRS (IF LUCIUS LISTENS)
-
-**SETTING:**
-
-The hall upstairs is quiet. Doors on both sides, most closed. At the end, the meeting room door. Heavy wood. Voices drift through, muffled but present.
-
-**WHAT'S HAPPENING:**
-
-If you press close to the door, you can make out pieces.
-
-"...wasn't on the roster," a measured voice says. Unfamiliar. "Why is he here?"
-
-Your father's voice, lower. Harder to hear. "...thought it would be useful. Before the academy."
-
-"He's young. Untested."
-
-"Just observe. Nothing formal."
-
-A pause.
-
-"The girl." The unfamiliar voice again. "She's reliable?"
-
-"Reliable enough for translation work."
-
-"What happened to her is..." The voice trails off. "...unfortunate."
-
-Papers rustle. The conversation shifts to things you don't understand. Troop movements, maybe. Supply issues. Border patrols. The kind of thing officers discuss when coordinating between regions.
-
----
-
-SCENE 8: THE MEETING BREAKS UP
-
-**SETTING:**
-
-Hours pass. Gaius alternates between pacing and sprawling on the sofa, complaining about the wait. Corvus sits in silence. The girl hasn't moved from her corner.
-
-**WHAT'S HAPPENING:**
-
-Finally, footsteps in the hall. The meeting room door opens. Men's voices. Polite farewells. The sound of business concluded.
-
-Your father appears in the doorway.
-
-"Lucius. We're staying the night here. The merchant has rooms for guests. We'll continue to the academy in the morning."
-
-He says it casually. Like it's normal. Like stopping at a textile merchant's house in Kalderia for the night is just convenient timing.
-
-"You'll have your own room. Upstairs. Third door on the right."
-
-He glances at the others. Gaius is standing now, waiting. Corvus is already moving toward the door. The girl remains in her corner.
-
-"Get some rest," your father says. "Long day tomorrow."
-
-Then he's gone again. Back down the hall. You hear his voice and others, discussing departure times and routes and other mundane details.
-
----
-
-SCENE 9: LUCIUS'S ROOM
-
-**SETTING:**
-
-The room is small but clean. A bed, a chair, a narrow window shuttered tight. The walls are thin. You can hear faint sounds from the room next door. Movement. Low voices. Nothing clear enough to make out.
-
-The smell of old wood and lamp oil. The bed is hard but serviceable.
-
-**WHAT'S HAPPENING:**
-
-Night settles over Kalderia. The industrial quarter never fully quiets. Distant sounds of workshops closing, workers heading home, the general hum of a city winding down.
-
-The house grows quieter. Footsteps in the hall. Doors closing. Eventually, silence.
-
-You're left with the questions that have been building all day. Why this house? Why these children? Why is your father meeting with other officers in a merchant's house instead of a garrison or headquarters?
-
-Maybe it's nothing. Maybe it's just convenient. Officers meet wherever it's practical when coordinating across regions.
-
-Or maybe it's something else.
-
-Tomorrow, the academy. Tonight, restless sleep in a stranger's house, wondering what your father hasn't told you.
-
-
-
-
-
-
-
-
-
-### From the Midnight in the House Onward
-
----
-
-SCENE 1: MIDNIGHT - LUCIUS'S ROOM
-
-**SETTING:**
-The room is cold. The kind of cold that settles in your chest before you realize you're holding your breath. Moonlight cuts across the floorboards in pale strips, and beyond the window, the courtyard below is a study in shadow and silver. The air tastes like old stone and lamp oil gone stale.
-
-**WHAT'S HAPPENING:**
-Around midnight, something jolts you awake. Not quite a shout, not quite a crash. Just strong enough to pull you from sleep.
-
-Then voices. Angry. Hushed. Filtering through the warped glass of your window. You recognize your father's voice.
-
----
-
-SCENE 2: THE COURTYARD EXCHANGE
-
-**SETTING:**
-
-Three figures stand in the courtyard like pieces on a game board. Your father, solid and tense, his shoulders set in a way you've seen before. When he's trying not to look like he's trying. Varria between them, small and frozen, her pale face catching the moonlight. She doesn't move. Doesn't breathe. A rabbit caught between wolves.
-
-The third figure is harder to read. Tall. Blond hair catching silver in the darkness. His coat is foreign, cut differently, worn differently. He moves with the ease of someone who belongs nowhere and everywhere.
-
-**WHAT'S HAPPENING:**
-
-The stranger hands something to your father. A package. Small enough to hide. Your father's hand closes around it too quickly. His eyes flick left, right, scanning the courtyard like a man who knows he shouldn't be here. The package disappears into his coat with practiced speed. The motion of someone who's done this before.
-
-The stranger speaks. The words are unfamiliar. Clipped consonants, rolling vowels that don't sound like any language you've heard in Valcris. Not Nebelhafen cant. Not the broken Alderil merchants sometimes use in border towns. Something else. close to the Alderil Language these Merchants speak but.. smoother.
-
-Your father responds. His voice is too low to make out words, but the cadence is clear. Agreement, confirmation, something being finalized.
-
-He pulls a letter from his coat. Hands it over. The stranger examines it. Nods once. Sharp. Efficient.
-
-They clasp arms. The gesture is brief, formal. Not the warmth of friendship, but the acknowledgment of something completed. Then they separate.
-
-The stranger melts into shadow like he was never there. Your father stands alone for a moment, one hand on Varria's shoulder. She hasn't moved. Hasn't looked up. He says something, too quiet to hear, and they walk back toward the safehouse together.
-
-The courtyard is empty. The air smells like rain that hasn't fallen yet.
-
----
-
- SCENE 3: MORNING - LUCIUS'S ROOM
-
-**WHAT'S HAPPENING:**
-
-The following morning, your father finds you as you're pulling on your boots.
-
-"I need to make a small trip into Kalderia," he says. Voice steady. Unremarkable. "I'll be back around noon. Go eat breakfast in the anteroom. Stay inside."
-
-He's gone before there's time to ask why.
-
----
-
- SCENE 4: THE ANTEROOM - BREAKFAST
-
-**SETTING:**
-
-The anteroom smells like baked bread and bitter tea. Morning light filters through narrow windows, weak and grey. The room is old. Scuffed floors, a table that's been repaired too many times, chairs that don't quite match. The kind of place that exists to be forgotten.
-
-**WHAT'S HAPPENING:**
-
-Gaius and Corvus are already there, hunched over the far end of the table.
-
-"...asked me about routes," Gaius is saying. Voice low but not quite low enough. "Who I'd seen. What I'd heard. Like I'm some kind of informant."
-
-Corvus doesn't respond. He never does unless he has to. But he's listening. He's always listening.
-
-"Varro's been questioning everyone," Gaius continues, louder now. Testing to see if anyone's paying attention. "You talk to him yet?"
-
-Corvus's eyes flick up. Meet yours across the table for half a heartbeat. Then away.
-
-"Not yet," Corvus says. Flat. Empty.
-
-The silence that follows has weight.
-
----
-
-SCENE 5: VARRO SUMMONS LUCIUS
-
-**WHAT'S HAPPENING:**
-
-Footsteps on the stairs. Slow. Deliberate.
-
-Magister Tiberius Varro descends like a man with all the time in the world. He's carrying a cup. Steam rising in thin threads. His expression is the careful neutral of someone who's already made up his mind about something and is waiting for confirmation.
-
-"Lucius." Not a question. An instruction.
-
-Varro doesn't wait for a response. He turns, climbs back up the stairs. The wood creaks under his weight. Each step sounds too loud in the quiet.
-
----
-
- SCENE 6: THE MEETING ROOM - THE INTERROGATION
-
-**SETTING:**
-
-The meeting room is larger than it needs to be. A heavy desk dominates the center, scarred with ink stains and the ghosts of old reports. Papers everywhere. Stacked, scattered, pinned. Maps on the walls, marked with routes and circles and notes in tight, cramped handwriting. The air is thick with the smell of old parchment and candle wax.
-
-The window overlooks the courtyard.
-
-**WHAT'S HAPPENING:**
-
-Varro sets his cup down. Doesn't sit. Just stands with his back to you, looking out that window.
-
-"You saw something," he says. Not a question. A statement of fact. "I can tell."
-
-The silence stretches. Varro doesn't turn around.
-
-"I was watching the meeting last night," he continues. Voice still calm. Still neutral. "I saw you watching it. My vantage point wasn't optimal."
-
-Now he turns. His eyes are the color of swirling darkness.
-
-"Now I need to know what you think you saw." A pause. Deliberate. "Who was there? Who were they talking to?" The room feels smaller than it did a moment ago. The air tastes like metal and old smoke. Varro's gaze doesn't waver, doesn't blink.
-
-
-
- ### Quintos On the way home
-
-**Father comes to Lucius's room:**
-
-"Varro told me everything."
-
-#### Lucius house area Descriptors
-**HOUSE COMMODIUS - ENTRYWAY:**
-
-Stone walls the color of storm clouds, trimmed with dark wood oiled until it gleams. The Divinas shrine burns with proper candles. Red for military service. Gold for priesthood. The air smells of beeswax and the faint metallic tang of polished Sablesteel. A family sword hangs above the shrine, its dark blade catching candlelight. Everything is in its place. Everything is correct. Nothing is warm.
-
----
-
-**THE RECEIVING ROOM:**
-
-Formal and rarely used. High-backed chairs arranged for visitors who must be impressed but not made comfortable. The smell of furniture polish and cold stone. A single painting of an ancestor in Legionary armor, watching with the same distant expression your father wears. The shutters are always half-closed. Conversations here are brief and proper.
-
----
-
-**LUCIUS'S BEDROOM:**
-
-Small and practical. A narrow bed with military corners. A desk for studies. A weapons rack holding a practice sword and staff. The smell of old leather and lamp oil. The window overlooks the courtyard. The walls are bare except for a small shelf holding childhood trinkets you've outgrown but haven't removed. It feels less like a room and more like a place to wait.
-
----
-
-**QUINTUS'S STUDY:**
-
-Dark wood and darker silence. Maps on the walls, some current, some ancient. A desk covered in correspondence sealed with official wax. The smell of parchment, pipe smoke, and something metallic. Weapons hang on the walls, each with a story you've never been told. The door is always closed when he's working. You don't enter uninvited.
-
----
-
-**THE DINING ROOM:**
-
-Long table, too large for the family that remains. Your father at one end, your mother at the other, you in the middle of too much empty space. The smell of whatever the cook prepared, rarely warm by the time it reaches the table. A candelabra provides light but not warmth. Your sister's chair sits empty. No one mentions it. No one sits there.
-
----
-
-**COMMODIA FLAVIA'S OLD ROOM:**
-
-Frozen in time since she left at nine. The bed made. Her childhood things still arranged on shelves. The smell of lavender sachets your mother places there, trying to keep the room alive. Dust gathers despite the sachets. The window faces east, toward the temple district where she lives now in golden halls you'll never see. Your mother sometimes stands in the doorway. She never enters.
-
----
-
-**FABIA'S SITTING ROOM:**
-
-Your mother's domain. Neat, ordered, smelling of rose water and starched linen. Embroidery hoops and correspondence arranged just so. The window overlooks the street. She sits here in afternoons, watching Valcris pass by, waiting for your father to return from wherever he's gone. Her face never changes. Her hands are always busy.
-
----
-
-**THE KITCHEN:**
-
-The warmest room in the house. The smell of bread baking, herbs drying, stock simmering. The cook works in efficient silence. A Demiliss scullery maid scrubs in the corner, careful to stay invisible. This is where real life happens, but you're not supposed to linger here. It's beneath your station.
-
----
-
-**THE SERVANTS' QUARTERS:**
-
-You've only glimpsed them once. Small rooms off the kitchen. Narrow beds. Plain walls. The smell of cheap soap and exhaustion. The Demiliss sleeps down here, grateful for a locked door between her and the street. The cook sleeps better than she does. Neither complains. Complaint gets you replaced.
-
-#### Safe house area Descriptors:
-**SAFEHOUSE ENTRYWAY:**
-
-Plain and forgettable. Narrow hall with hooks for cloaks, a small table for packages. The smell of dye and wool, faint but persistent. A ledger sits on the table, open to orders and deliveries. Everything designed to look legitimate. Everything designed to be ignored.
-
----
-
-**THE SITTING ROOM:**
-
-Comfortable without being memorable. Faded red sofa, mismatched chairs, a water pitcher that's been refilled too many times without being properly cleaned. The shutters keep the light muted and grey. A painting of a Proconsul watches from the wall, stern and disapproving. The air is stale, like the room isn't opened often.
-
----
-
-**THE MEETING ROOM:**
-
-Larger than it needs to be. A heavy desk scarred with ink stains, papers stacked and scattered and pinned. Maps on the walls marked with routes and circles in tight handwriting. The smell of old parchment and candle wax, thick enough to taste. The window overlooks the courtyard. The door is heavy oak, meant to keep sound inside.
-
----
-
-**UPSTAIRS HALLWAY:**
-
-Dim and narrow. Doors on both sides, most closed. The floorboards don't creak. Someone's gone to trouble to make sure they don't. Voices drift from behind closed doors, too muffled to make out words. The air smells of lamp oil and old wood.
-
----
-
-**LUCIUS'S BEDROOM:**
-
-Small and functional. A bed, a chair, a shuttered window. The walls are thin enough to hear movement next door. The smell of old wood and lamp oil. The bed is hard but clean. Military standard. Nothing personal. Nothing that suggests anyone actually lives here.
-
----
-
-**THE BASEMENT KITCHEN:**
-
-Cramped and low-ceilinged. A single oil lamp burns, casting more shadow than light. The smell of something cooking, underlaid with damp stone and mildew. A wash basin, a small stove, shelves with minimal supplies. Everything kept just functional enough. A door in the corner leads to the servant's quarters.
-
----
-
-**THE DEMILISS'S QUARTERS:**
-
-Barely a room. A cot. A single blanket. A bucket. The smell of unwashed bodies and fear. No window. No lamp. Just darkness and the knowledge that this is all she's allowed. The door has no lock from the inside.
-
----
-
-**THE COURTYARD:**
-
-Small, enclosed by brick walls on three sides. Uneven cobblestones, a few crates stacked against the wall. Moonlight turns everything silver and shadow. The air smells like rain that hasn't fallen yet. A place for discrete meetings, for exchanges that shouldn't be seen from the street.
-
-
-
-
-
-
-
-
-
-
-## Key Characters: 
+## Family Characters: 
 
 ### Quintus Commodius Custos - Father
 ![[Images/Characters/Quintos_Commdius_Custos.png]]
@@ -489,7 +72,7 @@ The Father of Lucius, a bit cold and harsh however loves his family.
 
 Quintos is a Silentium, unbeknownst to his family. where he claims in his day to day life to be a business man of much acumen, which is why he many times leaves quickly on business on unexpected trips, due to "opportunities". 
 
-
+Histroy with Lucius: told his son is proud of him for lying so well and protecting the family when talking to Varro
 
 
 ### Commodia Flavia - Sister
@@ -508,7 +91,7 @@ She celebrated Commodia Flavia's revelation with genuine warmth. She has always 
 To Lucius she is cordial. Nothing less, nothing more. She looked at him, noted what was there, noted what was not, and made her quiet assessment. She does not dislike him. He simply does not interest her.
 
 
-## Side Characters 
+## Other Characters 
 
 ### Gaius Tiberius
 **Background:**
@@ -520,6 +103,8 @@ To Lucius she is cordial. Nothing less, nothing more. She looked at him, noted w
 - Resents that others (like Corvus) get special Intelligence attention while he's "stuck" on the regular military track
 
 **Why he's here:** His father brought him along to "see what real military work looks like before the academy." Really, Tribune Silo is trying to expose his son to something impressive, prove the family still matters. Gaius doesn't know he's not actually being evaluated - he thinks he's competing with the others and needs to prove he's the best.
+
+Histroy with Lucius: Lucius made him more friendly towards him, they snuck around the meeting room in the Merchant's house together. 
 
 ### **Varria**
 **Background:**
@@ -543,6 +128,8 @@ To Lucius she is cordial. Nothing less, nothing more. She looked at him, noted w
 - Desperate to prove he's not his parents, terrified of being declared irredeemable.
 
 **Why he's here:** Cassia's "project." She sees potential in him for Intelligence work - someone who understands betrayal, fear, and survival. He's being informally assessed to see if he's salvageable or if the heresy runs too deep.
+
+Histroy with Lucius: Made him snicker once or twice, finds Lucius to be interesting.
 ### Magister Tiberius Varro
 ![[Images/Characters/Side Characters/Magister Tiberius Varro.png]]
 **Role:** Senior Intelligence Command recruiter and talent scout
@@ -559,8 +146,7 @@ To Lucius she is cordial. Nothing less, nothing more. She looked at him, noted w
 
 
 
-History with Lucius:
-
+History with Lucius: Decided the boy is a good liar, albeit too loyal to his biological family instead of to Ravania hence needs to go be away from them for his re-education.
 
 ### Sanctus Delator Cassia Aelius 
 
@@ -599,3 +185,7 @@ Mid 30s
 
 ### Merchant 
 
+Mysterious Safehouse caretaker and agent known as the Merchant, a former Mortis. 
+
+History with Lucius
+ The merchant asked Lucius to save him a bit of bread so Gaius wont eat all the food in the breakfast, he did save him a piece, and he was grateful. to the Merchant it showed genuine care, albeit how small it was.

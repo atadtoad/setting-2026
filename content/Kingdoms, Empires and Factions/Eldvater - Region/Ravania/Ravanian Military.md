@@ -1,13 +1,16 @@
 ---
 publish: true
 created: 2026-02-16T22:20:05.736+02:00
-modified: 2026-02-20T14:19:45.198+02:00
+modified: 2026-02-22T19:59:15.079+02:00
 cssclasses: ""
 ---
 
 The Ravanian military highly values mages and sorcerers, especially with the rising popularity of Sigilism. Yet these magic users remain rare. The army's main strength consists of cavalry wielding riding sabers and infantry clad in mail, scale armor, and dark gambesons. Infantry carry dueling sabers and crescent spears, while the royal guard wields heavy longaxe halberds.
 
 More about the religion of Ravania, the [[Religions/Religion - Divinor Imperium/Divinor Imperium - Divinor\|Divinor Imperium]]
+
+For leniency on the tax  soldier pays normal, getting returns by officers after showing receipts and ledgers.
+
 
 #### Military Ranks
 
