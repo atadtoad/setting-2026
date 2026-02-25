@@ -1,0 +1,22 @@
+---
+publish: true
+created: 2026-02-25T20:36:15.404+02:00
+modified: 2026-02-25T21:45:50.264+02:00
+cssclasses: ""
+---
+
+Wild mages are practitioners whose magic manifests outside any established framework. They bind to no circles, swear no oaths, follow no religious doctrine, and possess no structured methodology. Their power simply erupts, raw and unpredictable, shaped by instinct, emotion, and circumstances beyond their control or understanding.
+
+Most wild mages discover their abilities through trauma, desperation, or accident. A child survives a fire that should have killed them and finds flames answer their fear. A dying man refuses death so forcefully his body obeys. A mother's terror for her child manifests as force that shouldn't exist. The magic comes unbidden, often unwanted, and almost never in forms that can be replicated or taught. This aligns with what scholars know about potency: it can surge abruptly through traumatic events, near-death experiences, or moments of extreme conviction. For wild mages, these surges do not merely increase their capacity but ignite it for the first time, often violently.
+
+Wild magic is inherently unstable. What works once may fail the next time, or produce entirely different results. A wild mage who conjured lightning in rage might find only sparks when calm, or accidentally summon a storm when trying for a candle flame. This unpredictability makes them dangerous to themselves and everyone nearby. They cannot control what they do not understand, and understanding requires structure they fundamentally lack.
+
+Some theorists propose that all currently established bounded circles originated as wild magic. That the first practitioners who bound to relics or entities were attempting to impose structure on chaos, translating raw, unpredictable power into reproducible forms. If this theory holds, then wild magic is not aberrant but primordial, the original state from which all other magical traditions evolved. This would explain why some wild mages manifest abilities remarkably similar in effect to bounded magics, though the operation remains entirely different. A wild mage might produce flame indistinguishable from a Pyromancer's, yet one channels through a bounded circle while the other pulls directly from unstructured potency.
+
+Because wild magic cannot be standardized, trained, or reliably predicted, most civilizations view wild mages with suspicion at best and hostility at worst. They are threats, weapons that might detonate at any moment. The Witchfires, a period of intense magical persecution, saw wild mages hunted and executed across multiple regions. Even now, centuries later, the stigma remains. In Ravania, wild mages are considered particularly dangerous, and Vendants are often employed to track them down. Their immunity to magic and enhanced senses make them ideal hunters for those who cannot control their own power.
+
+Some wild mages are pressed into service rather than killed outright. Their unpredictability can be weaponized if properly contained or directed. Others manage to survive by hiding what they are, passing as non-magical or claiming allegiance to some established tradition. A few turn to oathbinding, swearing oaths so powerful and specific that their wild sorceries become controlled power, shaped by the conviction of their vow into something reproducible and reliable. This transforms them from wild mages into Oathbound practitioners, trading chaos for structure through sheer force of will and commitment.
+
+Rare wild mages, through years of experience and relentless practice, eventually develop some measure of control over their abilities. They learn to recognize the patterns in their chaos, to anticipate when their power will answer and when it will betray them. These individuals never achieve the reliability of bounded or oath magic, but they gain enough mastery to function without destroying themselves or everyone around them. Such control comes only with time, survival, and countless failures.
+
+Wild mages are called esoteric casters because their magic falls outside all recognized categories. Each is unique. What one can do, another cannot. There are no schools of wild magic, no traditions to study, no masters to apprentice under. Just individuals struggling to survive with power they never asked for and cannot fully control.
