@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-20T13:47:01.505+02:00
-modified: 2026-02-22T21:10:41.570+02:00
+modified: 2026-02-25T20:01:16.902+02:00
 cssclasses: ""
 ---
 
@@ -48,7 +48,6 @@ Lucius and Quintus reach the military academy.
 Quintus needs to meet with the Academy Commandant to finalize enrollment. Standard procedure for officers delivering their sons.
 You're thirteen, not a child. Find the barracks. Find the training yards. Learn the layout. I'll find you before evening formation.
  
-
 There: 
  When reaches an area he might be cornered have a few fake bullies that were told to test him push him around, say they heard about him, enrolling because of his sister's perdigree, that his fathers rank inst high enough alluding to sexual favors she did to get him in the Kalderian academy. 
 
@@ -59,8 +58,6 @@ if holds long enough have a girl rush into headkick someone in the head and rush
 In training yard - have an instrcutor see him and offer hin a chacne to prove himself combat test
 
 additionally when he passes by a hall have him be called by a teacher, she will ask him and explain about potency 
-
-
 
 ## Family Characters: 
 
