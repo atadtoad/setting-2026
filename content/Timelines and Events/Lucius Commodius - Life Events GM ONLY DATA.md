@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-20T13:47:01.505+02:00
-modified: 2026-02-25T20:01:16.902+02:00
+modified: 2026-02-26T19:28:06.360+02:00
 cssclasses: ""
 ---
 
@@ -58,6 +58,55 @@ if holds long enough have a girl rush into headkick someone in the head and rush
 In training yard - have an instrcutor see him and offer hin a chacne to prove himself combat test
 
 additionally when he passes by a hall have him be called by a teacher, she will ask him and explain about potency 
+
+## KALDERIA - SENSORY DESCRIPTORS
+
+**SMELL:**
+
+- The air tastes like copper and old rain on your tongue
+- Everything around you smells faintly of metal and damp wool
+- The smell of chemicals and wet stone clings to your clothes and won't leave
+- You can taste smoke and verdigris, thick enough to coat your throat
+- The air carries the tang of foundries and dye vats into your nose
+- You smell wet copper and green growing things, mixed wrong somehow
+- Industrial smoke layered over moss and river water fills your lungs
+
+---
+
+**SIGHT:**
+
+- The fog hangs green-tinged and heavy before your eyes
+- Mist clings to everything you look at, leaving fine copper dust
+- The world beyond twenty paces fades into green haze you can't pierce
+- Buildings emerge from fog like ghosts as you walk toward them
+- Everything you see wears a patina of green, even the stones
+- The fog moves like something living around you
+- You watch moisture bead on every surface, faintly greenish
+- The city is grey stone stained copper-green wherever you look
+
+---
+
+**TOUCH/FEELING:**
+
+- The air sits heavy on your skin like wet cloth
+- Dampness seeps through your clothing, persistent and cold against your body
+- Everything you touch feels perpetually wet
+- The fog clings to your hands like oil, leaving residue on your fingers
+- Your lungs feel thick, working harder than they should
+- Moisture settles in your hair, your clothes, seeps into your bones
+- The humidity makes every breath feel like work
+- Stone surfaces are slick with condensation under your palm
+
+---
+
+**GENERAL ATMOSPHERE:**
+
+- The fog never truly lifts around you, just thins
+- You hear sounds muffled, then suddenly too loud in your ear
+- You can't judge distances in the haze
+- The green tinge makes everything you see look sickly
+- You watch shadows move strangely through colored mist
+- The city feels closer than it should be, the fog pressing in on you
 
 ## Family Characters: 
 
