@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-20T13:47:01.505+02:00
-modified: 2026-02-26T19:28:06.360+02:00
+modified: 2026-02-27T18:35:35.253+02:00
 cssclasses: ""
 ---
 
@@ -43,21 +43,63 @@ Saved bread for the Merchant - The merchant asked Lucius to save him a bit of br
 Quintos is proud of Lucius - Quintos told his son he was proud of him of how he handled himself at the interrogation with Varro. put a hand on his son's shoulder in the Carriage and told him "I'm proud of you son".
 
 ## Session02 - Notes
+Lucius arrived at the Kalderia Military Academy where his father told him to explore while he handled enrollment business. He wandered the grounds and eventually found the training yard where Instructor Arrun was conducting a session. Lucius fought Paulus, a large boy with a pompadour. He won by capitalizing on Paulus talking mid-fight, striking from below and then stabbing down with his wooden training sword. Instructor Arrun praised him for the victory. Later, Lucius encountered a group of boys who had appraised him earlier at the gate when he was looking for a place to eat. They cornered him in the showers and locked him in, starting a fight after Leofric made lewd and undignified comments about Lucius's sister Flavia. Lucius retaliated by kicking Leofric in the groin and hitting him in the jaw, dropping him. He managed to land a few hits on Spurius, a Noxificer, though Spurius was getting the better of him. Oppios stayed out of the fight. Just as Spurius was about to beat Lucius badly, Spurius used his Noxificer magic. This triggered Maecilia Venatori, a Vendant called Mae, to intervene. She dropkicked through the shower door, hitting Spurius directly and ending the fight in one blow. She then kicked Leofric who was still down. After Mae saved him, Lucius went back to Leofric while he was down, kicked him in the groin again, and broke his nose. Lucius and Mae ate together afterward. Lucius called Mae his friend in front of his father and other people. Quintus informed Lucius that he had been evaluated and would be starting school at the Kalderia Academy next year. However, Quintus also told Lucius not to associate with the Venatori family. Upon returning home, Lucius met with his mother and sister. He learned from his sister that Teacher Oswald, whom he had briefly met at the military academy in Kalderia, has knee issues and uses a cane. Lucius hadn't noticed during their meeting because Oswald had been sitting the entire time.
 
-Lucius and Quintus reach the military academy. 
-Quintus needs to meet with the Academy Commandant to finalize enrollment. Standard procedure for officers delivering their sons.
-You're thirteen, not a child. Find the barracks. Find the training yards. Learn the layout. I'll find you before evening formation.
+**Memorable moments:**
+
+**Paulus's Fight** - Paulus and Lucius fought in the training yard. Paulus lost because Lucius capitalized on Paulus talking mid-fight, hitting him with a blow from below and then stabbing down with the wooden training sword. Instructor Arrun praised Lucius for the tactical victory.
+
+**Mae's Friend** - Lucius called Mae his friend in front of his father and other people after she saved him. He referred to her as his friend again later when speaking with his father, establishing their relationship publicly. However, Quintus warned Lucius not to associate with the Venatori family, creating tension between what Lucius wants and what his father demands.
+
+**Lucius's Retaliation** - When Leofric taunted Lucius by mentioning his sister in a lewd and undignified way, Lucius immediately retaliated by kicking him in the groin and hitting him in the jaw, dropping him. He also managed to get a few hits on Spurius the Noxificer before being overwhelmed. Oppios stayed out of the fight entirely. After Mae saved him and the fight was effectively over, Lucius went back to Leofric while he was down, kicked him in the groin again, and broke his nose.
+
+**Mae's Rescue** - Mae dropkicked the shower door open, hitting Spurius the Noxificer all the way through and ending the fight in one devastating blow. She then kicked Leofric who was still down from Lucius's earlier groin kick. She had intervened because Spurius used magic, not specifically to save Lucius, but the result was the same.
+
+**Teacher Oswald** - Lucius briefly met Teacher Oswald at the academy. Oswald was sitting the entire time they spoke and showed Lucius a small demonstration of his Greschian sorceries. Lucius didn't notice Oswald used a cane until his sister told him about Oswald's knee issues back home.
+
+**Father's Warning** - Quintus told Lucius not to associate with the Venatori family despite Lucius publicly calling Mae his friend. This creates a conflict between Lucius's personal choices and his father's commands.
+
+
+## Session 3 - 
+a year later, first day in the academy - main hall introduction speech -> lecture on manners and expectations, Arrun's outside expedition later. 
+
+
+First night:
+- Lucius assigned to barracks with Leofric and Oppius, Paulus across the hall.
+- Leofric reveals the shower incident was orchestrated, Oppius asked him to do it.
+- First night establishing the roommate dynamic.
+- Spurius appears briefly, remains distant and cold.
+
+day after-
+
+F**ield Medicine (Nasennia)**
+
+- Students paired to practice wound treatment on each other. Natural forced proximity with whoever he's assigned with.
+
+break time -free roam-
+
+Arrun class: Takes them outside to see the city, explains they can leave outside school times, shows them some areas but know they are responsible for themselves and heed recommend not go to the deeper parts of the city as it is dangerous.
+
+Oppius mentions wanting to stop by the apothecary, 
+
+Day after
+- First days of classes, getting into the routine.
+- Lucius encounters Mae on academy grounds.
+- The tension of his father's orders versus their previous connection.
+
+Oswald class: Talks a bit about potency and then have an explantion of Noxificers popularity in Kalderia as due to the fog they absorb more
+
+-break time free roam-
+
+after school, Paulus invites Lucius, Leofric and Oppius to go eat at the Copper nail, later on they go back. 
+
+get ambushed by thugs on the way back to Slum thugs target cadets for their coin and equipment. they were looting some guard that seems to have died in an alley due to being sliced up.
+
+The day after 
+
+an enforcer investigator questiones the students who found the dead body, apparently, the dead body wasnt killed by the thugs, and they are investigating for infomation. apparently the cadet was killed with inhuman strength, precise cuts requiring immense precision and agillity. so they ask for information. 
+
  
-There: 
- When reaches an area he might be cornered have a few fake bullies that were told to test him push him around, say they heard about him, enrolling because of his sister's perdigree, that his fathers rank inst high enough alluding to sexual favors she did to get him in the Kalderian academy. 
-
-they will verbally abuse him as much as they can and push him around, only letting him go if he admits his sister is a whore. this is meant to test what will Lucius do when pushed to a corner. 
-
-if holds long enough have a girl rush into headkick someone in the head and rush in to help him. 
-
-In training yard - have an instrcutor see him and offer hin a chacne to prove himself combat test
-
-additionally when he passes by a hall have him be called by a teacher, she will ask him and explain about potency 
 
 ## KALDERIA - SENSORY DESCRIPTORS
 
@@ -139,99 +181,3 @@ To Lucius she is cordial. Nothing less, nothing more. She looked at him, noted w
 
 ## Other Characters 
 
-### Gaius Tiberius
-**Background:**
-
-- Son of Tribune Marcus Silo, from an old military family that's been declining in status for two generations
-- Has been training in military academies since age 10 - combat, tactics, discipline
-- Loud, aggressive, physically imposing for his age - uses his father's rank as a shield
-- Bit of a bully - compensating for never quite being good enough in his father's eyes
-- Resents that others (like Corvus) get special Intelligence attention while he's "stuck" on the regular military track
-
-**Why he's here:** His father brought him along to "see what real military work looks like before the academy." Really, Tribune Silo is trying to expose his son to something impressive, prove the family still matters. Gaius doesn't know he's not actually being evaluated - he thinks he's competing with the others and needs to prove he's the best.
-
-Histroy with Lucius: Lucius made him more friendly towards him, they snuck around the meeting room in the Merchant's house together. 
-
-### **Varria**
-**Background:**
-
-- Father was a Lorden man who had an affair with her Ravanian mother
-- Mother's family disowned them when the truth came out
-- Mother tried to strangle her for being half-Lorden - hence the bruises on her neck and why she doesn't speak
-- Mother died to a Mortis who happened to have bardged in, (Numerius Vatinius Sanga)
-- Survived brought in temporarily by Numerius Vatinius Sanga for safekeeping.
-
-**Why she's here:** Not here for evaluation. She's just a stray the safehouse keeper took in. She speaks fluent Lorden (from her father) so they use her occasionally for translation work. She exists in limbo - not quite a recruit, not quite a servant, not quite anything. Just alive when she probably shouldn't be.
-
-
-### Corvus 
-**Background:**
-
-- Son of suspected Reiteglut sympathizers who fled to Nebelhafen eight months ago
-- Taken into custody by Sanctus Delator Cassia Aelius for "reeducation"
-- Quiet, reserved, cold, harsh - has the deadened affect of someone who's been broken and rebuilt
-- Eyes always watching, calculating, measuring threats and advantages
-- Desperate to prove he's not his parents, terrified of being declared irredeemable.
-
-**Why he's here:** Cassia's "project." She sees potential in him for Intelligence work - someone who understands betrayal, fear, and survival. He's being informally assessed to see if he's salvageable or if the heresy runs too deep.
-
-Histroy with Lucius: Made him snicker once or twice, finds Lucius to be interesting.
-### Magister Tiberius Varro
-![[Images/Characters/Side Characters/Magister Tiberius Varro.png]]
-**Role:** Senior Intelligence Command recruiter and talent scout
-
-**Background:**
-
-- Former Notarius who proved exceptional at identifying potential in young recruits
-- Now travels Ravania identifying children with the right temperament for Intelligence work
-- Not a field agent himself - failed his Candidatus graduation mission - but brilliant at reading people
-- Carries the quiet shame of someone who didn't make it but found purpose anyway
-
-
-**Why he's here:** Annual talent assessment. Several children of Intelligence contacts are being evaluated. 
-
-
-
-History with Lucius: Decided the boy is a good liar, albeit too loyal to his biological family instead of to Ravania hence needs to go be away from them for his re-education.
-
-### Sanctus Delator Cassia Aelius 
-
-Mid 30s
-**Role:** Religious enforcer, technically not Intelligence Command but coordinates with them
-
-**Background:**
-
-- Fanatically devoted to rooting out heresy
-- Wears her mask always in public settings
-- Here because one of the children being evaluated comes from a family suspected of Reiteglut connections
-- Her presence makes everyone nervous - even the other Intelligence officers
-
-**Her "ward":**
-
-- **Corvus** (15, no family name) - Son of suspected heretics. Taken into custody after his parents fled to Nebelhafen. He's being "evaluated" to see if he's salvageable or if the heresy runs too deep. Cassia sees potential in him. He's terrified of her and desperate to prove his loyalty to avoid being declared irredeemable.
-
-
-
-### Tribune Marcus Silo - 
-**Age:** Late 40s
-
-**Role:** Senior Tribune in the Ravanian Legions, coordinates military logistics and troop movements near border regions
-
-**Background:**
-
-- Career military officer from an old but declining military family
-- Earned his rank through competent field service in northern campaigns
-- Coordinates supply lines and provides military cover for operations he's not fully briefed on
-- Rigid, formal, uncomfortable with Intelligence Command's grey areas
-- Desperately trying to restore his family's fading status through his son
-
-**His son:**
-
-- **Gaius Silo** (14) - Being groomed to restore the family name. Pushed relentlessly by his father, never quite good enough. need to assert dominance when feeling inadequate. Brought along to "see real military work before the academy."
-
-### Merchant 
-
-Mysterious Safehouse caretaker and agent known as the Merchant, a former Mortis. 
-
-History with Lucius
- The merchant asked Lucius to save him a bit of bread so Gaius wont eat all the food in the breakfast, he did save him a piece, and he was grateful. to the Merchant it showed genuine care, albeit how small it was.

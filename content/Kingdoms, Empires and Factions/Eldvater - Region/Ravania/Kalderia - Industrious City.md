@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-22T20:02:47.885+02:00
-modified: 2026-02-22T21:04:53.510+02:00
+modified: 2026-02-27T00:12:35.451+02:00
 cssclasses: ""
 ---
 
@@ -45,8 +45,44 @@ The population of Kalderia is predominantly Veist human. A few Demiliss hide in 
 
 Military academy ranks goes as follows: 
 
-Tiro - First year 
-Optis - Second years 
-Centir - Third year
+Tiro - First rank age 6-12 usually
+Optis - Second rank  age 13-16 usually
+Centir - Third rank up to 16-17 of age 
+
+with classes around 
+
+**Combat & Physical**
+
+- Formations - Shield walls, lines, and maneuvering as a unit.
+- Sparring - Scored wooden weapon bouts, rotating partners.
+- Endurance - Long marches in full kit through difficult terrain.
+- Grappling - Unarmed combat and disarming armed opponents.
+- Traversal - Climbing, vaulting, and moving through urban environments.
+- Mounted Basics - Riding, cavalry awareness, fighting from horseback.
+
+**Academic & Strategic**
+
+- Campaigns - Studying historical Ravanian victories and defeats.
+- Cartography - Reading and creating battlefield maps.
+- Logistics - Calculating supplies, march times, and unit needs.
+- Enemy Doctrine - How Lorden, Aldergard, and others fight.
+- Imperial Law - Military legal authority and rules of engagement.
+- Rhetoric - Clear communication, delivering orders, field reports.
+
+**Practical Skills**
+
+- Field Medicine - Wound treatment, triage, infection prevention.
+- Maintenance - Armor repair, weapon care, kit inspection.
+- Signals - Flags, horns, drums, and runner coordination.
+- Fortification - Building camps and defensive positions.
+- Survival - Foraging, water sourcing, operating without supply lines.
+
+**Specialized**
+
+- Bestiary - Monster identification and how to kill them.
+- Sorcery Awareness - Recognizing magic use and countering it.
+- Heresy Studies - Identifying Reiteglut and other forbidden faiths.
+- Toxicology - Poisons, venoms, and their symptoms.
+- Resistance - Conduct under interrogation and captivity.
 ## Visuals: 
 
