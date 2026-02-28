@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-02-20T19:33:03.034+02:00
+modified: 2026-02-28T15:50:31.278+02:00
 cssclasses: ""
 ---
 
@@ -10,7 +10,19 @@ Langauge of Lorden: Alderil - sounds like a mix of Norweigen and Swedish.
 
 still wip
 ### Architecture&Environment
-The houses in Lorden are mostly made out wood or stone, the capital of Thangard is probably the most notable in construction utilizing Arcanists  to improve upon its keeps and houses, this endeavor however has caused numerous of old streets being built atop of with newer ones where they are many small crannies and nooks are left, hidden houses below the streets that were as if made perfect for crime to brew. 
+The houses of Lorden are built primarily of wood or stone, varying by region and available materials.
+
+**Thangard, the Capital** The capital is constructed largely of ancient stone, its keeps and prominent houses improved over generations by Arcanists. This constant building and rebuilding has resulted in newer streets layered atop older ones, leaving a maze of crannies, forgotten passages, and hidden dwellings beneath the city. These spaces have become ideal breeding grounds for crime.
+
+**The Northern Reaches** In the northern territories, houses are built with timber frames, thick wattle and daub walls, and heavily thatched roofs to endure harsh winters.
+
+**The Mid-Northern Tundras** Where timber grows scarce, construction relies on thick peat turf blocks for walls, stone foundations, and animal hides stretched over frames of whalebone or driftwood depending on proximity to the coast.
+
+**The Southern Grasslands** In the warmer southern regions, houses use locally sourced materials. Timber frames of green oak provide the structural skeleton, with walls of wattle and daub made from woven hazel packed with clay or mud. Steeply pitched roofs covered in thatch of long straw, reeds, or heather allow water to run off easily.
+
+**Common Practices** Throughout Lorden, builders prefer stone or rubble-filled trenches for foundations, keeping wooden elements raised off the damp ground to prevent rot.
+
+
 
 ### Capital
 Thangard was built atop ruins of a long lost kingdom atop its ruins in its humble beginning, yet as time went on and aracnists commencing their art is now a monument of stone and banners, the Thangard of current times is quite robust and if not for their ability to utilize Gigamars  and Arcanisits to build they would find themselves at a severe disadvantage compared to the surrounding. it is built resting on the Aldmont mountains, some of it including the throne on a mountain itself.
@@ -58,7 +70,7 @@ Usually from old tribe chief houses from the days of old.
 
 **Margrave** - Rules a march (border territory), particularly the southern border facing Ravania, Mordantis and Aldergard. Equal or slightly higher rank than regular Earls due to military importance. Has more military autonomy - can raise levies and respond to threats without waiting for royal approval. Expected to maintain constant military readiness. other Margraves towards Fiorelle, Malten and Ruhmald and others although carrying the same rank are not as highly regarded as that of the southern Margrave.
 
-**Earl(Jarl) and Counts**- Rules a large territory (Earldom). Many earls descend from the original tribal chieftains who swore fealty to Siegrick I. They maintain significant autonomy and their own military forces. Some particularly powerful earls may hold the title **High Earl** for the largest territories.
+Jarl and Counts - Rules a large territory (Earldom). Many earls descend from the original tribal chieftains who swore fealty to Siegrick I. They maintain significant autonomy and their own military forces. Some particularly powerful earls may hold the title **High Earl** for the largest territories.
 
 **Baron** - Either Lesser or Higher nobility(depends on land and size usually) leader who serves under an Earl. Commands a warband and administers smaller territories. Holds a Barony.
 #### Lesser Nobility 

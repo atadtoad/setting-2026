@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-20T13:47:01.505+02:00
-modified: 2026-02-27T18:35:35.253+02:00
+modified: 2026-02-28T15:08:38.523+02:00
 cssclasses: ""
 ---
 
@@ -61,26 +61,35 @@ Lucius arrived at the Kalderia Military Academy where his father told him to exp
 
 
 ## Session 3 - 
-a year later, first day in the academy - main hall introduction speech -> lecture on manners and expectations, Arrun's outside expedition later. 
+One year after his initial evaluation, Lucius traveled to the Kalderia Military Academy to begin his first year as a Tiro. On the way, he stayed at the Merchant's safehouse where he finally encountered Eboneye, the Lamia Demiliss he had glimpsed before. Eboneye nearly ate him and left him shaken. While at the safehouse, Lucius was tasked with delivering papers to Numerius's father, only to discover the contents were scantily clad paintings of Aurian priestesses. During the carriage ride to Kalderia, he read about wild magics from a book.
 
+Lucius arrived at the academy for the main hall introduction speech and a lecture on manners and expectations. He was assigned to the West Wing, second floor, room 649, as part of Class 6H. His roommates were Leofric and Oppius, with Paulus and Numerius across the hall. Spurius was assigned to the room next door, though they did not cross paths that day. That first night, Leofric revealed that the shower incident from the previous year had been orchestrated. Oppius had asked him to do it. Over breakfast in their room the next morning, Lucius learned that he, Leofric, Oppius, and Mae were all assigned to the same class.
 
-First night:
-- Lucius assigned to barracks with Leofric and Oppius, Paulus across the hall.
-- Leofric reveals the shower incident was orchestrated, Oppius asked him to do it.
-- First night establishing the roommate dynamic.
-- Spurius appears briefly, remains distant and cold.
+In Field Medicine with Instructor Nasennia, Lucius was first paired with Mae to practice carrying the injured. He dropped her. She retaliated by lifting him so hard he struck the ceiling, then dropped him with force. Afterward, when paired with Oppius, Lucius noticed Oppius struggling and lied to Instructor Nasennia, claiming Oppius was strong enough to lift him easily to spare him embarrassment.
 
-day after-
+Later, Instructor Arruns took the class outside the academy to tour the city. He explained they could leave during free time but warned them to avoid the deeper, more dangerous districts. Oppius mentioned wanting to stop at an apothecary. There, Oppius purchased his medicine and bought Lucius a mandrake salve as thanks for covering for him in Field Medicine.
 
-F**ield Medicine (Nasennia)**
+That evening in room 649, Paulus arrived with a small stew pot he had stolen from Grus, the Gigamar cook. When confronted, Lucius lied convincingly and got Paulus out of trouble. The group cooked and ate the stew together. Even Oppius laughed about the theft.
 
-- Students paired to practice wound treatment on each other. Natural forced proximity with whoever he's assigned with.
+Apparently Mae got into trouble for getting in past curfew at 10pm last time.
 
-break time -free roam-
+---
 
-Arrun class: Takes them outside to see the city, explains they can leave outside school times, shows them some areas but know they are responsible for themselves and heed recommend not go to the deeper parts of the city as it is dangerous.
+**Memorable Moments:**
 
-Oppius mentions wanting to stop by the apothecary, 
+**Eboneye's Welcome** - Lucius finally encountered Eboneye, the Lamia Demiliss living at the Merchant's safehouse. Eboneye almost ate him and left him badly frightened. A reminder that the world of Intelligence Command is not safe, even in supposedly secure locations.
+
+**The Paintings Delivery** - Lucius delivered papers to Numerius's father, expecting documents. The contents were scantily clad paintings of Aurian priestesses. An awkward first meeting with Numerius's family.
+
+**Mae's Ceiling Lesson** - During Field Medicine, Lucius was paired with Mae to practice lifting the injured. He dropped her. In retaliation, Mae lifted him with such force he struck the ceiling, then dropped him hard. A painful reminder of Vendant strength and Mae's willingness to return what she receives.
+
+**Covering for Oppius** - When Oppius struggled during the lifting exercise, Lucius lied to Instructor Nasennia, claiming Oppius was strong and had lifted him easily. This small act of kindness earned Oppius's gratitude and a mandrake salve from the apothecary.
+
+**The Shower Revelation** - Leofric admitted the shower fight from the previous year was orchestrated. Oppius had told him to do it, and Leofric trusted Oppius. No hard feelings remained. The confrontation that broke Leofric's nose was a test, not a grudge.
+
+**Grus's Stolen Stew** - Paulus stole a small stew pot from Grus the Gigamar cook. When caught, Lucius lied and talked Paulus out of trouble. The group cooked and ate together in room 649, bonding over stolen food. Even the usually reserved Oppius laughed.
+
+## Session 4
 
 Day after
 - First days of classes, getting into the routine.
@@ -95,13 +104,31 @@ after school, Paulus invites Lucius, Leofric and Oppius to go eat at the Copper 
 
 get ambushed by thugs on the way back to Slum thugs target cadets for their coin and equipment. they were looting some guard that seems to have died in an alley due to being sliced up.
 
+
+
 The day after 
 
 an enforcer investigator questiones the students who found the dead body, apparently, the dead body wasnt killed by the thugs, and they are investigating for infomation. apparently the cadet was killed with inhuman strength, precise cuts requiring immense precision and agillity. so they ask for information. 
 
- 
+later in Arruns's class Rumors of more guard deaths circulate among students, he admits and enlightens them that there has been some death of guards in unknown causes, those are however, always are after curfew hours... until now and he hopes that each student keeps close to the academy. 
+
+-during break - 
+Spurius heard about the body, approaches the group coldly.
+ Mentions that the bodies of those guards smell of a weird poison, not something common in the city, he sneaks out to the alley or the fog at night and ran into them prior, but never seen it happen.
+
+Overheards in lunch hall
+- Older students mention similar deaths months ago, quietly covered up.
+- Someone claims they saw something moving in the fog near the lower districts.
+- some guy jokes its Mae who did it, she arrived waaay after curfew too and she apparently came back with blood stains on her shirt(it  will be revealed to be sauce and oil if her laundry is checked, this is a red herring she sneaks out to work cooking for money)
+
+
 
 ## KALDERIA - SENSORY DESCRIPTORS
+
+
+## academy 
+
+
 
 **SMELL:**
 

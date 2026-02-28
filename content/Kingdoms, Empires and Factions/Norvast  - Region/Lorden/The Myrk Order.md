@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T23:54:31.131+02:00
-modified: 2026-02-17T00:57:59.864+02:00
+modified: 2026-02-28T16:33:42.801+02:00
 cssclasses: ""
 ---
 
@@ -15,8 +15,8 @@ Additionally, these knights undergo rigorous training even after their acceptanc
 They are also, at times, sent to assist the Auxiliary Brigade with threats posed by monsters, especially those belonging to the Inner Covenant.
 ## Order Ranks
 
-**Grand Knight** - Commands entire order, and is on the King's Council.
-**Lord Knight** - Lead individual chapter houses
+**Grand Knight** - Commands entire order, and is on the King's Council. required to join the Myrkvarger Covenant. 
+**Lord Knight** - Lead individual chapter houses, required to join the Myrkvarger Covenant. 
 **Knights** - Sworn knights, following the order's given by the order's leader.
 **Swordie** - Apprentices training under knights.
 
