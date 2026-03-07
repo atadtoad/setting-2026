@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-03-07T19:16:01.506+02:00
+modified: 2026-03-07T19:20:49.278+02:00
 cssclasses: ""
 ---
 
@@ -184,11 +184,9 @@ Jarl and Counts - Rules a large territory (Earldom). Many earls descend from the
 
 **Baron** - Either Lesser or Higher nobility(depends on land and size usually) leader who serves under an Earl. Commands a warband and administers smaller territories. Holds a Barony.
 #### Lesser Nobility 
-**Thane** - Landed knight who holds an estate in exchange for military service earned in reward of doing heroic deed, the lands held are bigger and usually include multiple estate. The main form of Lorden's military nobility. The term originated back to the old tribal structure.
-
 **Magister** - Governor of a chartered town or city. Elected by guild masters and leading citizens, or appointed by the local Earl/King.
 
-**Landed Knight** - Knights who hold land directly from the crown or from earls. Serve the king or great lords directly. Can rise to significant power through service but technically lacks ancient noble blood these Knights are usually originating from conquered people such as the few tribes who lived in Norvast era prior who were lost to time, and refugees of old Valk.
+**Landed Knight**/**Thane** - Knights who hold land directly from the crown or from earls. Serve the king or great lords directly. Can rise to significant power through service but some can technically lacks ancient noble blood these Knights are usually originating from conquered people such as the few tribes who lived in Norvast era prior who were lost to time, and refugees of old Valk.
 
 **Errant Knights** - A landless knight who wanders seeking glory, adventure, and worthy causes. Unlike Knight Bachelors (who serve in a lord's household), Errant Knights have no fixed lord or oath of service.
 
