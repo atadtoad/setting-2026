@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-03-07T19:13:58.113+02:00
+modified: 2026-03-07T19:16:01.506+02:00
 cssclasses: ""
 ---
 
@@ -184,7 +184,7 @@ Jarl and Counts - Rules a large territory (Earldom). Many earls descend from the
 
 **Baron** - Either Lesser or Higher nobility(depends on land and size usually) leader who serves under an Earl. Commands a warband and administers smaller territories. Holds a Barony.
 #### Lesser Nobility 
-**Thane** - Landed knight who holds an estate in exchange for military service. The main form of Lorden's military nobility. The term originated back to the old tribal structure.
+**Thane** - Landed knight who holds an estate in exchange for military service earned in reward of doing heroic deed, the lands held are bigger and usually include multiple estate. The main form of Lorden's military nobility. The term originated back to the old tribal structure.
 
 **Magister** - Governor of a chartered town or city. Elected by guild masters and leading citizens, or appointed by the local Earl/King.
 
