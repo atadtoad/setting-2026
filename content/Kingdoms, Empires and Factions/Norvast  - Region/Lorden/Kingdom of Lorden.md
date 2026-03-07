@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-03-07T19:20:49.278+02:00
+modified: 2026-03-07T19:28:28.654+02:00
 cssclasses: ""
 ---
 
@@ -186,11 +186,11 @@ Jarl and Counts - Rules a large territory (Earldom). Many earls descend from the
 #### Lesser Nobility 
 **Magister** - Governor of a chartered town or city. Elected by guild masters and leading citizens, or appointed by the local Earl/King.
 
-**Landed Knight**/**Thane** - Knights who hold land directly from the crown or from earls. Serve the king or great lords directly. Can rise to significant power through service but some can technically lacks ancient noble blood these Knights are usually originating from conquered people such as the few tribes who lived in Norvast era prior who were lost to time, and refugees of old Valk.
+**Landed Knight**/**Thane** - Knights who hold land directly from the crown or from Earls. Most Thanes and Landed Knights trace their blood to ancient Lorin families, their lineages reaching back to the tribes that first emerged from the Aldemont mountains. Some, however, descend from the Valk refugees who integrated into Lorden generations ago. These knights of Valk blood have proven themselves through service and been granted land, though older noble houses occasionally look down upon them for lacking the ancient Lorin heritage. Regardless of origin, Landed Knights serve the King or great lords directly and can rise to significant power through deeds and loyalty.
 
 **Errant Knights** - A landless knight who wanders seeking glory, adventure, and worthy causes. Unlike Knight Bachelors (who serve in a lord's household), Errant Knights have no fixed lord or oath of service.
 
-**Arcanists** - Practitioners of "tamed magic" from Siegrick II's lineage. Not not quite nobles, but highly respected. Organized in a loose order/guild structure. Some serve in the **Auxiliary Brigade** (magical military unit). although not always of Nobility, Arcanists are given the respect of Lesser nobility, as their abilities give them recognition. 
+**Arcanists** - Practitioners of "tamed magic" from Siegrick II's lineage.  while some do come from nobility Not quite nobles, but highly respected. Organized in a loose order/guild structure. Some serve in the **Auxiliary Brigade** (magical military unit). although not always of Nobility, Arcanists are given the respect of Lesser nobility, as their abilities give them recognition. 
 
 #### Commonfolk
 
