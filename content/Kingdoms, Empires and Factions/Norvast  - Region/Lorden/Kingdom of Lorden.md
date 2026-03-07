@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-03-07T19:41:52.956+02:00
+modified: 2026-03-07T20:59:12.055+02:00
 cssclasses: ""
 ---
 
@@ -210,7 +210,8 @@ Jarl and Counts - Rules a large territory (Earldom). Many earls descend from the
 
 **Serf & Bondsman** - Bound to the land they work but not considered property themselves. A serf cannot be sold separately from the land, nor can they leave without their lord's permission. They owe labor, a portion of their harvest, and various dues to the lord who holds their land. In return, they receive protection and the right to work the same plot their family has tended for generations. Unlike thralls, they cannot be traded, beaten at will, or separated from their families by sale. Unlike yeomen, they do not own their land and cannot simply leave to seek fortune elsewhere. Serfdom is less common in Lorden than in other kingdoms due to the strong freeman tradition dating back to tribal days, when most warriors owned their own holdings. It persists mainly in the southern regions near the Ravanian border and in territories conquered during expansion, where local populations were subjugated rather than integrated. Some bondsmen entered this status through debt, trading their freedom for security during hard times. Their children inherit the bond unless a lord grants release.
 
-**Wisewoman/Cunning Folk** - Rare and few practitioners of older "wild magic" traditions. Viewed with suspicion after the witch hunts but some survive in remote areas. Not officially recognized.
+**Wisewoman/Cunning Folk** - some are Rare and few practitioners of older "wild magic" traditions. yet most are dabbling alchemists, herbalists that are Viewed with suspicion after the witch hunts but some survive in outskirts of towns and villages. Not officially recognized.
+These usually tend to the Alderbeasts alters, totems or whatever religious symbol of the local Alderbeast exists and help village folk with ailments. 
 
 **Thrall/Slaves** - Slaves, though Vallard IX freed the Valk refugees, reducing this class significantly. Remaining thralls are usually war captives from conflicts with Ravania or criminals and occasional Demiliss.
 
