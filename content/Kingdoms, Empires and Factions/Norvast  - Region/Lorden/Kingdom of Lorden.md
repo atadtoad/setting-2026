@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-03-07T14:40:32.732+02:00
+modified: 2026-03-07T18:51:20.012+02:00
 cssclasses: ""
 ---
 
@@ -66,7 +66,7 @@ Lorden exports timber from its vast forests, furs, hides, and leather goods, iro
 
 ### What Lorden Imports
 
-Lorden imports exotic spices and dyes from southern kingdoms, fine wines from Tannen and Mordantis, silk and luxury fabrics, alchemical ingredients not native to the north, and gold.
+Lorden imports exotic spices and dyes from southern kingdoms, fine wines from the Weinost kingdoms , silk and luxury fabrics, alchemical ingredients not native to the north from Tannen and Mordantis, and gold through intermediaries originating from Ravania and at times Wyldric.
 
 **Currency**
 The currency of Norvast uses three types of coins: the Ort, the Grå, and the Marka.
