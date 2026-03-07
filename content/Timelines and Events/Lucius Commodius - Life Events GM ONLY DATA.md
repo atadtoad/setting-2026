@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-20T13:47:01.505+02:00
-modified: 2026-02-28T15:08:38.523+02:00
+modified: 2026-03-07T14:38:51.343+02:00
 cssclasses: ""
 ---
 
@@ -91,35 +91,33 @@ Apparently Mae got into trouble for getting in past curfew at 10pm last time.
 
 ## Session 4
 
-Day after
-- First days of classes, getting into the routine.
-- Lucius encounters Mae on academy grounds.
-- The tension of his father's orders versus their previous connection.
+The day after the stew incident, Lucius attended Oswald's class where the instructor discussed magical potency and explained why Noxificers are particularly common in Kalderia. The green copper fog that blankets the city allows Noxificers to absorb more fumes to fuel their abilities. During break, Lucius had an obstacle course with Instructor Arrun where he slipped and hit his head on a log. This was followed by four hours of Ravanian history, during which Leofric fell asleep beside him. On the way back to the dorms, Spurius bumped into them. Leofric got upset but quickly regretted it. Lucius bluffed their way out of the confrontation, claiming they hadn't said anything.
 
-Oswald class: Talks a bit about potency and then have an explantion of Noxificers popularity in Kalderia as due to the fog they absorb more
+In the lunch hall, Lucius overheard troubling rumors. Older students mentioned similar deaths occurring months ago that had been quietly covered up. Someone claimed they saw something moving in the fog near the lower districts. Another student joked that Mae was responsible, pointing out she had arrived well past curfew with blood stains on her shirt.
 
--break time free roam-
+After classes, Paulus invited Lucius, Leofric, and Oppius to eat at the Copper Nail inn. On the way there, Lucius found a rusty fish knife of Lamian origin lying near the sewers. At the inn, the group ate meat pies and loved them. Lucius learned that Leofric was fond of an Aurian priestess with a large bosom whom he called "big sister."
 
-after school, Paulus invites Lucius, Leofric and Oppius to go eat at the Copper nail, later on they go back. 
+On the walk back, slum thugs ambushed the cadets, targeting them for their coin and equipment. Lucius, Leofric, and Paulus were beaten badly. A skinny thug escaped with some of Lucius's money. Rounding a corner after the attack, they discovered a dead guard in an alley, his body sliced apart. The boys limped back to the academy, bloodied and bruised, carrying the corpse.
 
-get ambushed by thugs on the way back to Slum thugs target cadets for their coin and equipment. they were looting some guard that seems to have died in an alley due to being sliced up.
+The next day, an enforcer investigator questioned the students who found the body. The guard had not been killed by the thugs. The wounds showed inhuman strength and precise cuts requiring agility beyond normal capability. When pressed for information, Lucius grew frustrated and demanded the investigator share more details, threatening to investigate him in turn. When Lucius invoked the Commodius family name, the investigator pushed back hard, warning he would have Lucius's head if the boy had anything to do with the killing.
+
+---
+
+**Memorable Moments:**
+
+**The Lamian Knife** - On the way to the Copper Nail, Lucius found a rusty fish knife near the sewers. The blade is of Lamian origin. A small detail that may mean nothing, or may connect to the rumors of things moving in the fog and the underground passages beneath Kalderia.
+
+**Leofric's Big Sister** - Over food at the Copper Nail, Leofric mentioned an Aurian priestess he was fond of, a woman with a large bosom he called "big sister." A lighter moment before everything went wrong.
+
+**The Ambush** - Slum thugs jumped the cadets on the walk back from the inn. Lucius, Leofric, and Paulus took a beating. A skinny thug ran off with some of Lucius's coin. The boys learned that even in groups, cadets are targets in Kalderia's lower districts.
+
+**The Sliced Guard** - After the ambush, the boys found a dead guard in an alley. The body had been cut apart with precision and force beyond human capability. They carried the corpse back to the academy, arriving bloodied and bruised.
+
+**Lucius Overreaches** - During questioning, Lucius lost his temper and demanded the investigator share information, invoking his family name. The enforcer shut him down hard, warning he would have Lucius's head if he were involved. A reminder that the Commodius name carries little weight in Kalderia, and that Lucius is a boy playing at authority he does not have.
 
 
 
-The day after 
 
-an enforcer investigator questiones the students who found the dead body, apparently, the dead body wasnt killed by the thugs, and they are investigating for infomation. apparently the cadet was killed with inhuman strength, precise cuts requiring immense precision and agillity. so they ask for information. 
-
-later in Arruns's class Rumors of more guard deaths circulate among students, he admits and enlightens them that there has been some death of guards in unknown causes, those are however, always are after curfew hours... until now and he hopes that each student keeps close to the academy. 
-
--during break - 
-Spurius heard about the body, approaches the group coldly.
- Mentions that the bodies of those guards smell of a weird poison, not something common in the city, he sneaks out to the alley or the fog at night and ran into them prior, but never seen it happen.
-
-Overheards in lunch hall
-- Older students mention similar deaths months ago, quietly covered up.
-- Someone claims they saw something moving in the fog near the lower districts.
-- some guy jokes its Mae who did it, she arrived waaay after curfew too and she apparently came back with blood stains on her shirt(it  will be revealed to be sauce and oil if her laundry is checked, this is a red herring she sneaks out to work cooking for money)
 
 
 
