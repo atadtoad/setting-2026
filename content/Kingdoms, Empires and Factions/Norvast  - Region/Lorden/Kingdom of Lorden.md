@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-03-07T18:51:20.012+02:00
+modified: 2026-03-07T19:13:58.113+02:00
 cssclasses: ""
 ---
 
@@ -164,9 +164,10 @@ Arranged marriages are common among nobility for political alliance, binding hou
 Myrk Knights receive elaborate rites, with their Myrsword either interred with them or passed on to a worthy successor. The poor are buried in common ground blessed by Grey Shepherds. Some northern regions practice ship burials for important figures, setting the vessel ablaze upon the water. Throughout Lorden, it is believed that improper burial leaves the dead restless, their spirits wandering until the rites are properly performed.
 #### Legal System
 
-Local disputes are handled by the Baron or Earl of the region. Serious crimes are judged by the Earl or a local bailiff appointed for such matters. Trial by combat remains legal for disputes of honor, allowing the accused to stake their innocence on their sword arm. Witnesses and oaths carry significant weight in proceedings, with oath-breaking considered among the gravest offenses.
+territorial and bigger disputes are handled by the Baron or Earl of the region. higher serious crimes are judged by the Earl and Baron.
+Local disputes are dealt with by a bailiff appointed for such matters. Trial by combat remains legal for disputes of honor, allowing the accused to stake their innocence on their sword arm albeit highly rare and more apparent in the northern rural parts. Witnesses and oaths carry significant weight in proceedings, with oath-breaking considered among the gravest offenses.
 
-Punishments vary by severity. Fines and blood money settle most offenses, compensating victims or their families. Indentured servitude repays debts or compensates victims when coin is lacking. Exile is reserved for crimes not warranting death but too severe for fines alone. Some crimes carry thralldom, reducing the offender to bondage. Appeals to the King are possible but rarely granted, reserved for matters of great importance or noble status.
+Punishments vary by severity. Fines, punishments such as lashing and pillory deal with most offenses, compensating victims or their families. Indentured servitude repays debts or compensates victims when coin is lacking. Exile is reserved for crimes not warranting death but too severe for fines alone. Some crimes carry thralldom, reducing the offender to bondage. Appeals to the King are possible but rarely granted, reserved for matters of great importance or noble status.
 ### Power Structure
 King - Thanaric line ruler, but power balanced by nobles, Thanaric bloodline rules but must maintain support of powerful clans and jarls.
 
