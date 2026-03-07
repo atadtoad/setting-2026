@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-01-17T16:29:45.828+02:00
-modified: 2026-03-07T19:28:28.654+02:00
+modified: 2026-03-07T19:41:52.956+02:00
 cssclasses: ""
 ---
 
@@ -151,6 +151,12 @@ Demiliss are rare in Lorden, usually dwelling in the wilds far from human habita
 
 Gigamar are tolerated in Lorden, seen as useful laborers but kept at arm's length by most communities. Demiliss are distrusted and often blamed for misfortune if their nature is discovered. Foreigners are treated fairly in matters of trade but are rarely granted land or titles regardless of their wealth or service. Thralls still exist in Lorden, though the practice is declining, viewed as old-fashioned by some and distasteful by others.
 
+**Half-elves** are treated with similar mistrust as foreigners, finding it difficult to obtain higher positions within Lorden. They are not granted lands or noble titles regardless of their service or wealth.
+
+**Demiliss** receive the harshest treatment in Lorden. Most Lorins view them as aberrant and monster-kin, creatures closer to the beasts of the wilds than to people. They are forbidden from entering cities, markets, or public spaces, relegated to a sort of exile and deemed profane by common belief. The rare Demiliss with more human-like appearance or useful skills may find work as low servants or field laborers, though even they face constant suspicion. Some are taken as thralls outright.
+
+
+
 #### Education
 
 Literacy in Lorden is limited mostly to nobility, clergy, and merchants. Children learn trades through apprenticeship under masters in their craft. Noble children are tutored privately or sent to other households to learn arms, etiquette, and governance. The Astralegis trains those with magical potential, identifying candidates through tests administered across the kingdom. Sagas and oral history are written down in great books but also taught orally by elders to preserve the culture among those who cannot read.
@@ -198,15 +204,15 @@ Jarl and Counts - Rules a large territory (Earldom). Many earls descend from the
 
 **Craftsmen/Merchants -** creates goods and services to sell and trade in regulation of local guilds and rule.
 
-**Yeoman** - Free peasant farmers who own their land. Unlike serfdom in other kingdoms, Lorden maintains a strong yeoman class They owe military service and taxes but cannot be bought/sold.
+**Yeoman** - Peasant farmers who own their land outright. They are free in status, meaning they cannot be bought, sold, or bound to another's land as serfs are. They hold legal rights, can bring disputes before local courts, and may leave their land if they choose. In exchange for this standing, they owe military service when called and pay taxes to their local lord and the crown. Unlike serfs and bondsmen who are tied to land they do not own, a yeoman's obligations are duties of a free citizen, not terms of bondage.
 
 **Freemen** - Men and women that aren't bound to any land or own their own, however is are still part of the kingdom of Lorden, usually sailors, traveling professionals and other unique status of folk.
 
-**Serf&Bondsman** - Bound to land but not slaves. Less common in Lorden due to strong freeman tradition, but exists in some regions.
+**Serf & Bondsman** - Bound to the land they work but not considered property themselves. A serf cannot be sold separately from the land, nor can they leave without their lord's permission. They owe labor, a portion of their harvest, and various dues to the lord who holds their land. In return, they receive protection and the right to work the same plot their family has tended for generations. Unlike thralls, they cannot be traded, beaten at will, or separated from their families by sale. Unlike yeomen, they do not own their land and cannot simply leave to seek fortune elsewhere. Serfdom is less common in Lorden than in other kingdoms due to the strong freeman tradition dating back to tribal days, when most warriors owned their own holdings. It persists mainly in the southern regions near the Ravanian border and in territories conquered during expansion, where local populations were subjugated rather than integrated. Some bondsmen entered this status through debt, trading their freedom for security during hard times. Their children inherit the bond unless a lord grants release.
 
 **Wisewoman/Cunning Folk** - Rare and few practitioners of older "wild magic" traditions. Viewed with suspicion after the witch hunts but some survive in remote areas. Not officially recognized.
 
-**Thrall/Slaves** - Slaves, though Vallard IX freed the Valk refugees, reducing this class significantly. Remaining thralls are usually war captives from conflicts with Ravania or criminals and occasional Demiliss or half-elves.
+**Thrall/Slaves** - Slaves, though Vallard IX freed the Valk refugees, reducing this class significantly. Remaining thralls are usually war captives from conflicts with Ravania or criminals and occasional Demiliss.
 
 ### Customs&Values
 
