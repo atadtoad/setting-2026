@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-02-16T23:57:01.862+02:00
-modified: 2026-02-28T22:31:41.908+02:00
+modified: 2026-03-08T21:36:04.413+02:00
 cssclasses: ""
 ---
 
@@ -37,6 +37,11 @@ Clergy do not join the inner Covenant simply by serving the religious order. Low
 ## Church Ranks
 
 The Speaker of Myrk, known as the Greytongue, stands as the head of the faith and voice of the Black Wolf in mortal matters. Below the Greytongue serve the Deacons of Myrk, called Greyfathers or Greymothers, senior clergy who oversee regional shrines and guide multiple congregations. The Deacons are the first rank inducted into the Covenant proper. Beneath them are the Priests of Myrk, known as Grey Shepherds, who lead rituals, interpret omens, and tend to local shrines. At the lowest rank are the Acolytes of Myrk, called Grey Robes, initiates still learning the rites and traditions of the faith.
+
+Greytongue
+Greyfather
+Grey Shepherd
+Grey Robes
 
 ## Induction Ritual
 
