@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-08T19:17:54.365+02:00
-modified: 2026-03-08T22:52:36.725+02:00
+modified: 2026-03-11T01:36:39.581+02:00
 cssclasses: ""
 ---
 
@@ -25,9 +25,9 @@ She wishes to join the [[Kingdoms, Empires and Factions/Norvast  - Region/Lorden
 
 **Father**
 
-Her father is now in his early thirties. He grew up in Ostvallen as the younger son of a lesser noble family. They owned little beyond an old inn, and even that slipped away as they neared financial ruin. As a boy, he became fascinated with an older girl living on the outskirts of the village, an outcast no one wanted to approach. She was a few years his elder, strange and compelling where others saw only someone to avoid.
+Her father is now in his mid thirties. He grew up in Ostvallen as the younger son of a lesser noble family. They owned little beyond an old inn, and even that slipped away as they neared financial ruin. As a boy, he became fascinated with an older girl living on the outskirts of the village, an outcast no one wanted to approach. She was a few years his elder, strange and compelling where others saw only someone to avoid.
 
-When he came of age at fourteen, his family sent him out as a squire, eventually becoming an Errant Knight to make a name for himself and restore their fortunes. He never wanted to fight. He wanted to learn a trade, to run an inn as he had helped do in his youth. But he was good at fighting whether he liked it or not, and so he fought.
+When he came of age at twelve, his family sent him out as a squire, eventually becoming an Errant Knight to make a name for himself and restore their fortunes. He never wanted to fight. He wanted to learn a trade, to run an inn as he had helped do in his youth. But he was good at fighting whether he liked it or not, and so he fought.
 
 While on the road, word reached him that his mother had died of disease and his father had left for Thangard to start a new family there. He had nothing to return to. Then came a battle he never speaks of, some heroic deed that earned him elevation to Landed Knight. It was during this conflict that he met a dwarf from Veiliss, a friendship that would last the rest of his life. When offered his choice of lands as reward, he asked only for a small abandoned inn on the mountainside above Ostvallen, a place he had frequented during his travels. They granted it, perhaps puzzled by such a modest request.
 
@@ -37,7 +37,7 @@ He considers himself an innkeep through and through, and a damn excellent cook. 
 
 **Mother**
 
-Her mother is in her mid-thirties now. She comes from a family of nomads who travel the inner ridges of Aldemont, trading as they go. During one such stop in Ostvallen when she was young, they abandoned her. She does not speak of why. Left alone in an unfamiliar village, she survived on scraps until a younger boy began sneaking food to her. It helped more than he knew.
+Her mother is in her late-thirties now. She comes from a family of nomads who travel the inner ridges of Aldemont, trading as they go. During one such stop in Ostvallen when she was young, they abandoned her. She does not speak of why. Left alone in an unfamiliar village, she survived on scraps until a younger boy began sneaking food to her. It helped more than he knew.
 
 Eventually the local Cunningman took her in and taught her his craft. Loneliness or pity, she never learned which. Rumors followed her regardless. Whispers of witchcraft brought trouble, and trouble brought more whispers. She left Ostvallen and traveled the land for a time. She joined the [[Kingdoms, Empires and Factions/Norvast  - Region/Lorden/Auxiliary Brigade - Vildrgard\|Vildrgard]] at some point, though she was kicked out for reasons she does not discuss.
 

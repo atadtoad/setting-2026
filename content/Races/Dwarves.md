@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-03-09T00:26:07.154+02:00
-modified: 2026-03-09T23:59:29.287+02:00
+modified: 2026-03-10T22:31:06.647+02:00
 cssclasses: ""
 ---
 
@@ -35,12 +35,13 @@ According to dwarven accounts, their people had been trapped in this stillness b
 
 ### Veiliss
 
-Veiliss is a region of massive mountains and frozen wastes, home to vast underground realms beneath the Aldemont range. These halls are older than any human kingdom. When exactly they were carved, none can say.
+Veiliss is a region, not a kingdom. It lies north of Norvast and Lorden, a vast expanse of frozen wastes where Colossi still roam[](). Few surface-dwellers venture there. Those who do rarely return.
 
-Veiliss is not a single kingdom but many. Multiple dwarven factions and inner kingdoms occupy the mountains and the depths below. Each maintains its own traditions, its own rulers, its own interpretation of dwarven custom.
+The dwarves make their homes within the mountains themselves and in the vast underground realms that extend beneath them. Halls are carved into mountainsides, opening onto frozen cliffs. From there, passages descend deeper, connecting to tunnels older than any human kingdom. When exactly they were carved, none can say. These passages do not remain confined to Veiliss. They extend southward, reaching beneath the Aldemont ridge that borders Norvast and Lorden. It is through these deep tunnels that dwarves have historically traded with the Thanaric line and other surface kingdoms, emerging from the mountains without ever crossing the deadly frozen wastes above.
+
+The region contains not a single dwarven kingdom but many. Multiple factions and inner kingdoms occupy the mountains and the depths below. Each maintains its own traditions, its own rulers, its own interpretation of dwarven custom. They share the region but not allegiance.
 
 Some of these realms extend deeper than any human has traveled. The dwarves speak of older halls below, passages that descend into darkness even they do not enter.
-
 ### Lifespan and Aging
 
 Dwarves grey and grow older, but they do not grow weaker. They grow slower. With age, a dwarf becomes denser and heavier. An old dwarf weighs significantly more than a young one of the same size.
@@ -93,3 +94,27 @@ Some dwarves have attempted to craft Shapings using human materials: bone, blood
 The dwarves have grown reclusive since the Age of Grays. Trade continues, but fewer dwarves emerge from the mountains each generation. Some whisper the Shapings are cracking less often. The dwarves may be a dying people, though they measure such things in centuries.
 
 Relations with Lorden remain cordial due to ancient treaties. Relations with other kingdoms such as Tannen, Wyldric, Grimgon, and Nachtgard are minimal or nonexistent.
+
+### Dwarven Magic
+
+Some dwarves are born with innate magical abilities tied to their nature. These abilities manifest in one of two forms, rarely both.
+
+**Gravons** are dwarves born with the ability to manipulate gravity. They can increase or decrease the pull of the earth around them, crushing enemies beneath invisible weight or lightening burdens that would break other backs. This magic is believed to be a remnant of their lost homeland, an echo of the intense pressure their ancestors once called home. Gravons are prized in dwarven society, for their abilities aid in mining, construction, and warfare alike.
+
+**Tenciards** are dwarves born with magic turned inward. Their bodies are strengthened beyond what even normal dwarven resilience allows. They possess significantly greater constitution and vitality, shrugging off wounds that would fell other warriors. Their resistance to physical attacks borders on the unnatural, and they are remarkably difficult to affect with magic of any kind. Where a Gravon shapes the world around them, a Tenciard becomes immovable within it.
+
+Most dwarves who manifest these gifts possess one or the other. To have both is exceedingly rare.
+
+**The Amplification Effect**
+
+Scholars have long noted a peculiar interaction between Gravon magic and other forms of spellcraft. When a Gravon increases gravitational pull around themselves, magic cast within that field grows stronger. The effect is not fully understood, but it appears that the crushing pressure amplifies magical energies, compounding their potency. Some theorize this is why dwarven runes function as they do, why Shapings require such intense pressure to work their transformation. Gravity and magic are intertwined in ways other races have yet to comprehend.
+
+**The Compounding Warriors**
+
+Those rare dwarves born with both Gravon and Tenciard abilities become something terrifying. By increasing their gravitational pull, they amplify their own strengthening magic. This amplified magic allows them to increase their gravity further still. The effect compounds, building upon itself until these warriors become living catastrophes on the battlefield.
+
+At the height of their power, enemies cannot stand in their presence. The ground cracks beneath their feet. Arrows veer off course. Blades that reach them shatter against flesh that has become denser than stone. These compounding warriors are among the most fearsome fighters in the known world, though their numbers are vanishingly small. Most dwarven kingdoms count themselves fortunate to have even one.
+
+**Connection to Venadants**
+
+Some human scholars have noted similarities between Tenciard magic and the abilities of Venadants, those rare humans born with magic that courses through their bodies rather than being cast outward. The theory suggests that Venadants may share some distant connection to dwarven blood, or that both abilities stem from the same source. Tenciards who have encountered Venadants note the resemblance but also the differences: Venadants seem to have traded the raw defensive power of the Tenciards for other, more varied internal abilities. Whether this represents a common origin or mere coincidence remains a matter of scholarly debate.
